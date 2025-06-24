@@ -27,17 +27,9 @@ Du willst wissen, ob dein Unternehmen gut auf die Meldung von Sicherheitsvorfäl
 - [ ] Enthält der Bericht eine Bewertung potenzieller grenzüberschreitender Effekte?
 - [ ] Gibt es eine zentrale Stelle oder Vorlage zur Berichtserstellung?
 
-## Kommunikation & Transparenz
-
-- [ ] Ist geregelt, wer interne und externe Kommunikation im Krisenfall übernimmt?
-- [ ] Ist vorbereitet, wie mit einer möglichen öffentlichen Bekanntmachung umgegangen wird?
-
 ## Dokumentation & Nachweis
 
-- [ ] Werden alle Meldeprozesse und -berichte revisionssicher dokumentiert?
+- [ ] Werden alle Meldeprozesse und -berichte sicher dokumentiert?
 - [ ] Ist die Nachvollziehbarkeit für interne Audits und Aufsichtsbehörden sichergestellt?
 
----
-
-> 🔄 Diese Checkliste sollte regelmäßig überprüft und an neue regulatorische Vorgaben sowie interne Prozesse angepasst werden.
 
