@@ -14,4 +14,15 @@ Die NIS-2-Richtlinie verpflichtet Unternehmen zur strukturierten und fristgerech
 
 - **Veröffentlichung:** In Fällen von erheblichem öffentlichem Interesse kann die zuständige Behörde die betroffene Einrichtung auffordern, den Vorfall öffentlich bekannt zu machen – oder dies selbst tun.
 
+## Möglicher Prozess zur Meldung von Sicherheitsvorfällen
+
+Der folgende Ablauf stellt ein Beispiel für einen möglichen internen Prozess zur Erfüllung der Meldepflicht gemäß Artikel 23 NIS-2 dar. Er zeigt die typischen Schritte von der Erstmeldung bis zum Abschlussbericht:
+
+![Prozessmodell zur Meldung von Sicherheitsvorfällen](prozess_meldepflicht.png)
+
+*Abb.: Beispielhafter Ablauf eines Meldeprozesses bei Sicherheitsvorfällen.*
+
+> Hinweis: Dieses Prozessmodell dient als Orientierung und sollte an die individuellen Strukturen und Verantwortlichkeiten des Unternehmens angepasst werden.
+
+
 
