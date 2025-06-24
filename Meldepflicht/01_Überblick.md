@@ -1,4 +1,4 @@
-<p style="color:green;"><strong>Hinweis:</strong> Die NIS-2-Richtlinie verpflichtet Unternehmen zur strukturierten und fristgerechten Meldung erheblicher Sicherheitsvorfälle. Artikel 23 beschreibt dabei detailliert die einzelnen Meldephasen und Anforderungen.</p>
+Die NIS-2-Richtlinie verpflichtet Unternehmen zur strukturierten und fristgerechten Meldung erheblicher Sicherheitsvorfälle. Artikel 23 beschreibt dabei detailliert die einzelnen Meldephasen und Anforderungen.
 
 
 ## Gesetzlicher Hintergrund – Artikel 23 NIS-2
