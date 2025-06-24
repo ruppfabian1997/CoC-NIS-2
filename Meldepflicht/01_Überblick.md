@@ -1,6 +1,7 @@
-## Gesetzlicher Hintergrund – Artikel 23 NIS-2
+<p style="color:green;"><strong>Hinweis:</strong> Die NIS-2-Richtlinie verpflichtet Unternehmen zur strukturierten und fristgerechten Meldung erheblicher Sicherheitsvorfälle. Artikel 23 beschreibt dabei detailliert die einzelnen Meldephasen und Anforderungen.</p>
 
-Die NIS-2-Richtlinie verpflichtet Unternehmen zur strukturierten und fristgerechten Meldung erheblicher Sicherheitsvorfälle. Artikel 23 beschreibt dabei detailliert die einzelnen Meldephasen und Anforderungen:
+
+## Gesetzlicher Hintergrund – Artikel 23 NIS-2
 
 - **Frühwarnung:** Innerhalb von 24 Stunden nach Kenntnisnahme eines erheblichen Sicherheitsvorfalls ist eine Frühwarnung an das zuständige CSIRT oder die Aufsichtsbehörde abzugeben – inklusive etwaiger Verdachtsmomente auf böswillige Handlungen oder grenzüberschreitende Auswirkungen.
 
