@@ -24,3 +24,12 @@ Das Repository ist modular aufgebaut: **Jeder Ordner repräsentiert eine konkret
 
 - **04_Mapping.md**  
   Stellt eine Zuordnung zu etablierten Standards her, insbesondere zur ISO/IEC 27001:2022. Falls vorhanden, werden auch bestehende Lücken oder Abweichungen kenntlich gemacht.
+
+## Für wen ist dieses Projekt gedacht?
+
+Dieses Projekt richtet sich vor allem an:
+
+- **IT-Sicherheitsverantwortliche**, die für die technische Umsetzung der NIS-2-Anforderungen zuständig sind,
+- **Geschäftsführerinnen und Geschäftsführer**, die in der Verantwortung stehen, Cybersicherheitsmaßnahmen zu billigen und zu überwachen,
+- sowie **Cyber Security Berater**, die mit dem CoC eine grundlage haben, Unternehmen bei der Umsetzung zu untserstützen.
+
