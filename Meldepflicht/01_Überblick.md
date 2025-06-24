@@ -18,7 +18,7 @@ Die NIS-2-Richtlinie verpflichtet Unternehmen zur strukturierten und fristgerech
 
 Der folgende Ablauf stellt ein Beispiel für einen möglichen internen Prozess zur Erfüllung der Meldepflicht gemäß Artikel 23 NIS-2 dar. Er zeigt die typischen Schritte von der Erstmeldung bis zum Abschlussbericht:
 
-![Prozessmodell zur Meldung von Sicherheitsvorfällen](prozess_meldepflicht.png)
+![Prozessmodell zur Meldung von Sicherheitsvorfällen](media/Meldepflicht.drawio.png)
 
 *Abb.: Beispielhafter Ablauf eines Meldeprozesses bei Sicherheitsvorfällen.*
 
