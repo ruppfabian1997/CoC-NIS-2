@@ -1,12 +1,10 @@
-# 📌 Mapping zur ISO/IEC 27001:2022 – Meldepflicht (Art. 23 NIS-2)
+# 📌 Mapping zur ISO/IEC 27001:2022 – Meldepflicht NIS-2
 
-Diese Zuordnung zeigt, wie die Anforderungen der NIS-2-Meldepflicht durch bestehende Maßnahmen der ISO/IEC 27001:2022 unterstützt werden – und wo ggf. Ergänzungsbedarf besteht.
-
----
 
 ## 🛡️ Control 5.5 – Kontakt mit Behörden
 
-> *„Die Organisation sollte den Kontakt mit relevanten Behörden unterhalten.“*
+> *„Die  Organisation  muss  mit  den  zuständigen  Behörden  Kontakt 
+aufnehmen  und  halten.“*
 
 **Bezug zur NIS-2:**  
 Dieser Control unterstützt die Meldepflicht, da Unternehmen bereits verpflichtet sind, Kontaktstellen bei Behörden zu pflegen. Für die NIS-2-Meldung muss dies jedoch erweitert werden: Der konkrete Meldeweg, die Fristen (24h / 72h / 1 Monat) sowie der Informationsumfang müssen detailliert festgelegt und dokumentiert sein.
@@ -15,7 +13,10 @@ Dieser Control unterstützt die Meldepflicht, da Unternehmen bereits verpflichte
 
 ## ⚠️ Control 5.24 – Planung und Vorbereitung der Handhabung von Informationssicherheitsvorfällen
 
-> *„Die Organisation sollte Prozesse für die Vorbereitung und Behandlung von Informationssicherheitsvorfällen planen und einführen.“*
+> *Die  Organisation  muss  die  Handhabung  von 
+Informationssicherheitsvorfällen  planen  und  vorbereiten,  indem  sie 
+Prozesse,  Rollen  und  Verantwortlichkeiten  für  die  Handhabung  von 
+Informationssicherheitsvorfällen  definiert,  einführt  und  kommuniziert.“*
 
 **Bezug zur NIS-2:**  
 Diese Maßnahme bildet die Grundlage für strukturierte Reaktionsprozesse, wie sie für die NIS-2-Meldepflicht erforderlich sind. Ergänzt werden muss jedoch eine explizite Integration der NIS-2-spezifischen Meldefristen und Berichtsformate.
