@@ -11,7 +11,7 @@ Die NIS-2-Richtlinie bringt umfangreiche Anforderungen an Cybersicherheitsmaßna
 
 ## Aufbau des Repositories
 
-Das Repository ist modular aufgebaut: **Jeder Ordner repräsentiert eine konkrete Umsetzungspflicht** aus der NIS-2-Richtlinie. Alle Ordner folgen einer einheitlichen Struktur, um die Übersichtlichkeit und Wiederverwendbarkeit zu gewährleisten:
+Das Repository ist modular aufgebaut: **Jeder Ordner repräsentiert eine konkrete Umsetzungspflicht** aus der NIS-2-Richtlinie. Alle Ordner folgen einer einheitlichen Struktur:
 
 - **01_Überblick.md**  
   Enthält eine kurze Einführung zur jeweiligen Pflicht, inklusive relevanter Prozesse, einem Auszug aus dem Richtlinientext und einer kompakten Beschreibung der Anforderung.
@@ -24,5 +24,3 @@ Das Repository ist modular aufgebaut: **Jeder Ordner repräsentiert eine konkret
 
 - **04_Mapping.md**  
   Stellt eine Zuordnung zu etablierten Standards her, insbesondere zur ISO/IEC 27001:2022. Falls vorhanden, werden auch bestehende Lücken oder Abweichungen kenntlich gemacht.
-
-Dieses einheitliche Format erleichtert die Anwendung im Unternehmen, ermöglicht Vergleichbarkeit und kann einfach erweitert oder an eigene Bedürfnisse angepasst werden.
