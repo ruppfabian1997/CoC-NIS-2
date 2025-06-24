@@ -1,6 +1,6 @@
-# ✅ Checkliste zur Umsetzung der Meldepflicht (Art. 23 NIS-2)
+# Checkliste zur Umsetzung der Meldepflicht (Art. 23 NIS-2)
 
-Diese Checkliste unterstützt Unternehmen bei der Umsetzung und Überprüfung der Anforderungen zur Meldung erheblicher Sicherheitsvorfälle.
+Du willst wissen, ob dein Unternehmen gut auf die Meldung von Sicherheitsvorfällen vorbereit bist und dabei auch keine Aspekte außer acht lässt? Dan gehe die Chekcliste durch!
 
 ## Allgemeine Voraussetzungen
 
