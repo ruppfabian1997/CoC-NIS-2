@@ -2,7 +2,7 @@
 **1. Ziel des Abschnitts**  
   Was soll mit der Einhaltung dieser Pflicht erreicht werden?
 
-- **2. Verhaltensregeln**  
+## Verhaltensregeln 
   Klare, adressatengerechte Formulierungen z. B.:
   - Sicherheitsvorfälle sind unverzüglich an die zuständigen Stellen zu melden.
   - Frühwarnungen müssen innerhalb von 24 Stunden erfolgen.
