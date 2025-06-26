@@ -1,5 +1,5 @@
 
-- **1. Ziel des Abschnitts**  
+**1. Ziel des Abschnitts**  
   Was soll mit der Einhaltung dieser Pflicht erreicht werden?
 
 - **2. Verhaltensregeln**  
