@@ -13,15 +13,13 @@
   - Integration in das ISMS bzw. Notfallmanagement
   - Erstellung eines Templates für Abschlussberichte
 
-- **4. Zuständigkeiten**  
-  Wer ist verantwortlich für:
-  - Erstbewertung und Eskalation?
-  - Formale Meldung an Behörden?
-  - Abschlussdokumentation?
+## Mögliche beteiligte Rollen
+  - IT-Sicherheitsbeauftragte:r (Information Security Officer / ISO)
+  - IT-Servicedesk
+  - Datenschutzbeauftragte:r
+  - Compliance-Abteilung
 
-- **5. Empfohlene Nachweisdokumente**  
-  Beispiele:
-  - Meldeprozess-Dokumentation
-  - Frühwarnungsprotokoll
-  - Abschlussbericht-Vorlage
-  - Schulungsnachweis zur Meldepflicht
+## Empfohlene Nachweisdokumente
+  - Policy Meldeprozess
+  - Template Abschlussbericht
+  - Vergangene Protokolle zu Meldungen (wenn vorhanden)
