@@ -8,7 +8,7 @@
   - Die Geschäftsführung ist über meldepflichtige Vorfälle zu informieren.
   - -- IN ANFORDERUNGSWORKSHOP WEITER HERAUSARBEITEN--
 
-## Empfohlene Maßnahmen**  
+## Empfohlene Maßnahmen 
   - Einrichtung eines internen Meldeprozesses
   - Integration in das ISMS bzw. Notfallmanagement
   - Erstellung eines Templates für Abschlussberichte
