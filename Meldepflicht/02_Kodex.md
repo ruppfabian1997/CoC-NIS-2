@@ -12,6 +12,7 @@
   - Einrichtung eines internen Meldeprozesses
   - Integration in das ISMS bzw. Notfallmanagement
   - Erstellung eines Templates für Abschlussberichte
+  - -- IN ANFORDERUNGSWORKSHOP WEITER HERAUSARBEITEN--
 
 ## Mögliche beteiligte Rollen
   - IT-Sicherheitsbeauftragte:r (Information Security Officer / ISO)
