@@ -2,17 +2,15 @@ Die NIS-2-Richtlinie verpflichtet Unternehmen zu einer systematischen Dokumentat
 
 ## Gesetzlicher Hintergrund – Artikel 20, 21, 23, 32, 34 - NIS-2
 
-- **Governance (Artikel 20)** Geschäftsleitungen müssen Maßnahmen nach Artikel 21 nicht nur billigen, sondern deren Umsetzung überwachen und sind im Falle von Verstößen rechenschaftspflichtig. Die Mitglieder der Leitungsorgane müssen regelmäßig geschult werden.
+- **Governance (Artikel 20)** Geschäftsleitungen müssen Maßnahmen nach Artikel 21 nicht nur billigen, sondern deren Umsetzung überwachen und sind im Falle von Verstößen Rechenschaftspflichtig. Das bedeutet, dass die Geschäftsleitung Nachweise für Maßnahmen gegenenfalls vorzeigen müssen.
 
-- **Erstmeldung:** Innerhalb von 72 Stunden nach Kenntnisnahme ist eine erste offizielle Meldung des Vorfalls einzureichen. Diese muss eine erste Bewertung der Auswirkungen sowie – falls verfügbar – Kompromittierungsindikatoren enthalten.
+- **Artikel 21 (Risikomanagementmaßnahmen)** Unternehmen müssen alle in Artikel 21 genannten Maßnahmen dokumentieren, da sie Grundlage für Audits und Aufsicht sind.
 
-- **Abschlussbericht:** Spätestens einen Monat nach der Erstmeldung ist ein vollständiger Abschlussbericht einzureichen. Dieser enthält eine detaillierte Beschreibung des Vorfalls, seiner Ursachen, getroffener Abhilfemaßnahmen sowie etwaiger Auswirkungen auf andere Mitgliedstaaten.
+- **Artikel 23 (Berichtspflichten)** Unternehmen müssen nach der Bewältigung von Sicherheitsvorfällen entsprechende Nachweise über die Erkennung und Bewertung erstellen.
 
-- **Weitere Berichte:** Die zuständige Behörde oder das CSIRT kann Zwischenberichte oder Fortschrittsberichte anfordern.
+- **Artikel 32 & 34 (Aufsicht und Sanktionen)** Die zuständigen Behörden sind berechtigt, umfassende Kontrollen durchzuführen. Fehlen Nachweise oder ist die Dokumentation unzureichend, drohen empfindliche Geldbußen.
 
-- **Rückmeldung:** Die zuständige Stelle muss innerhalb von 24 Stunden nach Erhalt der Frühwarnung eine Rückmeldung geben und gegebenenfalls technische Unterstützung anbieten.
 
-- **Veröffentlichung:** In Fällen von erheblichem öffentlichem Interesse kann die zuständige Behörde die betroffene Einrichtung auffordern, den Vorfall öffentlich bekannt zu machen – oder dies selbst tun.
 
 ## Möglicher Prozess zur Meldung von Sicherheitsvorfällen
 
