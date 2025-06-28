@@ -18,9 +18,9 @@ Der folgende Ablauf stellt ein Beispiel für einen möglichen internen Prozess z
 
 ![Prozessmodell zur Meldung von Sicherheitsvorfällen](media/Prozess_Nachweispflicht.png)
 
-*Abb.: Beispielhafter Ablauf eines Meldeprozesses bei Sicherheitsvorfällen.*
+*Abb.: Beispielhafter Ablauf zur Erfüllung der Nachweispflicht*
 
-> Hinweis: Dieses Prozessmodell dient als Orientierung und sollte an die individuellen Strukturen und Verantwortlichkeiten des Unternehmens angepasst werden.
+> Hinweis: Dieses Prozessmodell dient als Orientierung. Die Nachweispflicht ist im Kern ein Pflicht, die in fast allen relevanten Maßnahmenpflichten in NIS-2 eine Rolle spielt. Daher ist es schwierig, den Prozess isoliert zu betrachten.
 
 
 
