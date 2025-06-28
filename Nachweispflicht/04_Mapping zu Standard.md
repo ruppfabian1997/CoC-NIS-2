@@ -1,4 +1,4 @@
-# Mapping zur ISO/IEC 27001:2022 – Nachweispflicht (Art. 20, 21, 33 NIS-2)
+# Mapping zur ISO/IEC 27001:2022 – Nachweispflicht NIS-2
 
 Die folgende Zuordnung zeigt, wie die NIS-2-Anforderung zur Nachweisdokumentation mit Maßnahmen der ISO/IEC 27001:2022 verknüpft ist.
 
