@@ -12,11 +12,11 @@ Die NIS-2-Richtlinie verpflichtet Unternehmen zu einer systematischen Dokumentat
 
 
 
-## Möglicher Prozess zur Meldung von Sicherheitsvorfällen
+## Möglicher Prozess zur Dokumentation von Maßnahmen un der Erstellung von Nachweisen
 
-Der folgende Ablauf stellt ein Beispiel für einen möglichen internen Prozess zur Erfüllung der Meldepflicht gemäß Artikel 23 NIS-2 dar. Er zeigt die typischen Schritte von der Erstmeldung bis zum Abschlussbericht:
+Der folgende Ablauf stellt ein Beispiel für einen möglichen internen Prozess zur Dokumentation von Maßnahmen, Planung und Erstellung von Nachweisen und der Durchführung von Nachweisprüfungen:
 
-![Prozessmodell zur Meldung von Sicherheitsvorfällen](media/Meldepflicht.drawio.png)
+![Prozessmodell zur Meldung von Sicherheitsvorfällen](media/Prozess_Nachweispflicht.png)
 
 *Abb.: Beispielhafter Ablauf eines Meldeprozesses bei Sicherheitsvorfällen.*
 
