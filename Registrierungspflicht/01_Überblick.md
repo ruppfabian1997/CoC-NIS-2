@@ -1,7 +1,7 @@
-## Die NIS-2-Richtlinie verpflichtet betroffene Unternehmen dazu, sich bei der zuständigen nationalen Behörde zu registrieren. Die Registrierungspflicht ist in Artikel 28 geregelt und betrifft alle wesentlichen und wichtigen Einrichtungen.
+Die NIS-2-Richtlinie verpflichtet betroffene Unternehmen dazu, sich bei der zuständigen nationalen Behörde zu registrieren. Die Registrierungspflicht ist in Artikel 28 geregelt und betrifft alle wesentlichen und wichtigen Einrichtungen.
 
-Grundlage
-Wesentliche und wichtige Einrichtungen müssen der zuständigen Behörde bestimmte Informationen bereitstellen, darunter:
+## Gesetzlicher Hintergrund - Artikel 28 und Paragraph 33 NIS2UmsuCG
+++Wesentliche und wichtige Einrichtungen müssen der zuständigen Behörde Informationen bereitstellen, darunter:**
 - Name der Einrichtung
 - Rechtsform
 - Branche (nach Anhang I oder II)
@@ -10,3 +10,4 @@ Wesentliche und wichtige Einrichtungen müssen der zuständigen Behörde bestimm
 - Kontaktstelle für Cybersicherheit
 
 Die Registrierung muss aktuell gehalten und bei relevanten Änderungen aktualisiert werden. Sie dient der zentralen Erfassung und Überwachung durch die Aufsichtsbehörden.
+
