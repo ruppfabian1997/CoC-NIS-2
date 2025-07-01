@@ -21,7 +21,7 @@ Ziel dieses Kodex ist es, Regeln für den sicheren und verantwortungsvollen Umga
       - AES (Advanced Encryption Standard) –> für symmetrische Verschlüsselung (z. B. AES-256)
       - RSA –> für asymmetrische Verschlüsselung und digitale Signaturen
       - [Das BSI veröffentlicht noch einige weitere empfohlene kryptographische Verfahren und Schlüssellängen](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Technische-Richtlinien/TR-nach-Thema-sortiert/tr02102/tr02102_node.html)
-- aller kryptographischen Vorgänge
+- Protokollierung aller kryptographischen Vorgänge
 - Schulung der Mitarbeitenden, die mit Verschlüsselung arbeiten
 
 ## Mögliche beteiligte Rollen
