@@ -4,8 +4,7 @@ Diese Checkliste hilft Unternehmen dabei zu prüfen, ob sie die Registrierungspf
 
 ## Prüfen der Registrierungspflicht
 
-- [ ] Wurde geprüft, ob das Unternehmen als „wesentliche“ oder „wichtige“ Einrichtung eingestuft ist?
-- [ ] Liegt eine offizielle Bestätigung oder interne Entscheidung zur Betroffenheit vor?
+- [ ] Wurde richtig geprüft, ob das Unternehmen als „wesentliche“ oder „wichtige“ Einrichtung eingestuft ist und zur Registrieung bei der zuständigen Behörde verpflichtet ist?
 
 ## Vorbereitung der Registrierung
 
