@@ -1,7 +1,7 @@
 # 📘 Kodex – Verhaltensregeln und Maßnahmen zum Einsatz von Kryptographie
 
 ## 1. Ziel des Abschnitts  
-Ziel dieses Kodex ist es, Regeln für den sicheren und verantwortungsvollen Umgang mit Verschlüsselung und digitalen Schlüsseln im Unternehmen festzulegen. So sollen sensible Informationen geschützt und rechtliche Vorgaben eingehalten werden.
+Ziel dieses Kodex ist es, Regeln für den sicheren und verantwortungsvollen Umgang mit Verschlüsselung und digitalen Schlüsseln im Unternehmen festzulegen. So sollen sensible Informationen geschützt und Vorgaben in NIS-2 eingehalten werden.
 
 ## Verhaltensregeln
 
