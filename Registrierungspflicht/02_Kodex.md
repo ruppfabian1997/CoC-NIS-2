@@ -1,4 +1,4 @@
-# 📘 Kodex – Verhaltensregeln und Maßnahmen zur Registrierungspflicht (Art. 28 NIS-2)
+# 📘 Kodex – Verhaltensregeln und Maßnahmen zur Registrierungspflicht
 
 ## **1. Ziel des Abschnitts**  
 Ziel des Kodex ist es, verbindliche interne Regeln und Abläufe zur Erfüllung der in NIS-2 geforderten Registrierungspflicht zu etablieren.
