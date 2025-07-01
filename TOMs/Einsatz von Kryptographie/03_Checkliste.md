@@ -4,7 +4,7 @@ Diese Checkliste hilft Unternehmen dabei, den Einsatz von kryptographischen Verf
 
 ## Allgemeine Anforderungen
 
-- [ ] Gibt es eine interne Kryptographie-Richtlinie?
+- [x] Gibt es eine interne Kryptographie-Richtlinie?
 - [ ] Wurden Schutzbedarf und Klassifizierung der zu schützenden Informationen definiert? -> (Wichtig als Entscheidungsgrundlage, wo Kryptographie eingestezt werden soll)
 - [ ] Ist geregelt, wann, wie und von wem Kryptographie eingesetzt werden darf?
 
