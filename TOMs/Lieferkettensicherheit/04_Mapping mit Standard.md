@@ -36,7 +36,7 @@ Fokus liegt hier auf der technischen Lieferkette (z. B. Software, Hardware, Cl
 > *„Die Organisation muss regelmäßig die Informationssicherheitspraktiken der Lieferanten und die Erbringung von Dienstleistungen überwachen, überprüfen und Änderungen steuern.“*
 
 📌 **Bezug zur NIS-2:**  
-NIS-2 verlangt, dass die Beziehung zu Anbietern nicht nur vertraglich geregelt, sondern auch im Betrieb aktiv kontrolliert wird – genau das fordert dieses Control.
+Das control verlangt, dass die Beziehung zu Anbietern nicht nur vertraglich geregelt, sondern auch im Betrieb aktiv gemanagt wird..
 
 ---
 
