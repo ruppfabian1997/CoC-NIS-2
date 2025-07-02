@@ -28,8 +28,8 @@ Ziel dieses Kodex ist es, passende Verfahren zur Schulung von Mitarbeitenden und
 - Einbindung von IT-Sicherheit in allgemeine Schulungen (z. B. Datenschutz, IT-Nutzung)
 - -- IN ANFORDERUNGSWORKSHOP WEITER HERAUSARBEITEN --
 
-- **🎮 Pro-Tipp: Gamification in Cyber-Schulungen**  
-  Der Ansatz, spielerisch Wissen in Schulungen zu vermittel ist immer mehr im Trend und kann die Wirksamkeit von Schulungen deutlich erhöhen. Beispiele: Quiz-Wettbewerbe, Sicherheits-Challenges, Phishing-Simulationen mit Punktesystem.
+- **Pro-Tipp: Gamification in Cyber-Schulungen**  
+  Der Ansatz, spielerisch Wissen in Schulungen zu vermittel ist immer mehr im Trend und kann die Wirksamkeit von Schulungen deutlich erhöhen. Beispiele: Quiz-Wettbewerbe, Sicherheits-Challenges,    Phishing-Simulationen mit Punktesystem.
 
 
 ## Mögliche beteiligte Rollen
