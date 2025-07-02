@@ -5,6 +5,7 @@ Die NIS-2-Richtlinie verpflichtet Unternehmen, grundlegende Verfahren im Bereich
 
 Die Anforderung der Richtlinie: „grundlegende Verfahren im Bereich der Cyberhygiene und Schulungen im Bereich der Cybersicherheit umzusetzen“, zielt zielt darauf ab, ein organisationsweites Grundverständnis für sicheren Umgang mit Inforamtionen zu etablieren und das Verhalten von Mitarbeitenden mit in die Sicherheitsstrategie einzubinden.
 
+--
 **Warum werden Schulungen und Cyberhygiene in der NIS-2-Richtlinnie gemeinsam genannt?**
 
 Technische Maßnahmen nur wirksam sind, wenn Menschen sie verstehen und mittragen.
