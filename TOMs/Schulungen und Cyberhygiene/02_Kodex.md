@@ -1,4 +1,4 @@
-# 📘 Kodex – Verhaltensregeln und Maßnahmen zur Schulung und Cyberhygiene (Art. 21 Abs. 2 lit. g NIS-2)
+# 📘 Kodex – Verhaltensregeln und Maßnahmen zur Schulung und Cyberhygiene (Art. 21 Abs. 2 (g) NIS-2)
 
 ## 1. Ziel des Abschnitts  
 Ziel dieses Kodex ist es, passende Verfahren zur Schulung von Mitarbeitenden und Cyberhygiene zu etablieren.
