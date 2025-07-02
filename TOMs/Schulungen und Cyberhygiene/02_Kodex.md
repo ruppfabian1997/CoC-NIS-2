@@ -10,7 +10,12 @@ Ziel dieses Kodex ist es, passende Verfahren zur Schulung von Mitarbeitenden und
 - Schulungsinhalte müssen verständlich, praxisnah und zielgruppengerecht aufbereitet sein.
 - Die Teilnahme an Schulungen ist zu dokumentieren. 
 - Auch externe Mitarbeitende (z. B. Dienstleister) sind einzubeziehen.
-  - xy
+- Mitarbeitende müssen grundelgende Cyberhybiene Verfahren anwenden
+  - Starke und individuelle Passwörter wählen
+  - Updates regelmäig durchführen
+  - Keine externen Links und Anhänge öffnen
+  - den Arbeitsplatz sicher halten (z.B. Bildschirm sperren)
+  - Private und dienstliche Angelegenheiten klar trennen
 - -- IN ANFORDERUNGSWORKSHOP WEITER HERAUSARBEITEN --
 
 ## Empfohlene Maßnahmen
