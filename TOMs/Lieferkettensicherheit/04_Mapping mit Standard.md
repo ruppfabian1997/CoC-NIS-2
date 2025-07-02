@@ -18,7 +18,7 @@ Dies ist das zentrale Control zur Lieferkettensicherheit. Es fordert eine proakt
 > *„Je nach Art der Lieferantenbeziehung müssen die entsprechenden Anforderungen an die Informationssicherheit festgelegt und mit jedem Lieferanten vereinbart werden.“*
 
 📌 **Bezug zur NIS-2:**  
-Dieses Control konkretisiert, wie Sicherheitsanforderungen in Verträge, SLAs oder Datenschutzvereinbarungen mit Lieferanten eingebunden werden sollten – eine zentrale Anforderung auch in der NIS-2.
+Dieses Control konkretisiert, wie Sicherheitsanforderungen in Verträge, SLAs oder Datenschutzvereinbarungen mit Lieferanten eingebunden werden sollten.
 
 ---
 
