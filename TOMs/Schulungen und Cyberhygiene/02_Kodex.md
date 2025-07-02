@@ -10,6 +10,7 @@ Ziel dieses Kodex ist es, passende Verfahren zur Schulung von Mitarbeitenden und
 - Schulungsinhalte müssen verständlich, praxisnah und zielgruppengerecht aufbereitet sein.
 - Die Teilnahme an Schulungen ist zu dokumentieren. 
 - Auch externe Mitarbeitende (z. B. Dienstleister) sind einzubeziehen.
+  - xy
 - -- IN ANFORDERUNGSWORKSHOP WEITER HERAUSARBEITEN --
 
 ## Empfohlene Maßnahmen
