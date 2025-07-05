@@ -31,7 +31,7 @@ Zugriffsmanagement beginnt Identitätsmanagement. Wessen Identität geprüft und
 > *„Die Verwaltung von Authentisierungsinformationen muss durch geeignete Prozesse erfolgen, inklusive Schulung des Personals über den sicheren Umgang.“*
 
 **📌 Bezug zur NIS-2:**  
-Passwörter, Tokens und Zertifikate gehören zu den sensibelsten Elementen in der Zugriffskontrolle. Die ISO und NIS-2 fordern Sicherheitsstandards in der Authentisierung, ebenso wie ein Bewusstsein für sicheren Umgang damit [Siehe auch Schulungen und Cyberhygiene](https://github.com/ruppfabian1997/CoC-NIS-2/blob/main/TOMs/Schulungen%20und%20Cyberhygiene/01_Überblick.md).
+Passwörter, Tokens und Zertifikate gehören zu den sensibelsten Elementen in der Zugriffskontrolle. Die ISO und NIS-2 fordern Sicherheitsstandards in der Authentisierung, ebenso wie ein Bewusstsein für sicheren Umgang damit ([Siehe auch Schulungen und Cyberhygiene](https://github.com/ruppfabian1997/CoC-NIS-2/blob/main/TOMs/Schulungen%20und%20Cyberhygiene/01_Überblick.md)).
 
 ---
 
@@ -44,11 +44,41 @@ Zugriffsrechte sollten nach dem Prinzip „Need-to-know“ vergeben werden. Es s
 
 ---
 
+## ✅ A.8.2 – Privilegierte Zugangsrechte
 
+> **Maßnahme:**  
+> Zuteilung und Gebrauch von privilegierten Zugangsrechten müssen eingeschränkt und verwaltet werden.
 
+**📌 Bezug zur NIS-2:**  
+Privilegierte Zugangsrechte sind ebenfall ein Teil der Konzeption in der Zugriffskontrolle. In NIS-2 ist der Punkt nicht explizit erwähnt. Er ist dennoch wichtig, da nur autorisierte und ausgewählte Nutzer mit solchen Zugangsrechte ausgestattet sein sollen.
 
-technologische maßnahmen
-8.2
-8.3
-8.4
-8.5
+---
+
+## ✅ A.8.3 – Informationszugangsbeschränkung
+
+> **Maßnahme:**  
+> Der Zugang zu Informationen und anderen damit verbundenen Werten muss in Übereinstimmung mit der festgelegten themenspezifischen Richtlinie zur Zugangssteuerung eingeschränkt werden.
+
+**📌 Bezug zur NIS-2:**  
+Die Informationszugangsbeschränkung ist durch die Richtlinie zur Zugangssteuerung geregelt. Diese ist ein essentielles Dokument in der Konzeption der Zugriffskontrolle.
+
+---
+
+## ✅ A.8.4 – Zugriff auf Quellcode
+
+> **Maßnahme:**  
+> Lese- und Schreibzugriff auf den Quellcode, die Entwicklungswerkzeuge und die Softwarebibliotheken müssen angemessen verwaltet werden.
+
+**📌 Bezug zur NIS-2:**  
+Quellcode ist ein besonders schützenswerter Vermögenswert, da er den Kern der eingesetzten Software bildet. Ein Unkontrollierter Zugriff kann zur Ausnutzung von Schwachstellen, zum Einschleusen von Backdoors oder zu ungewollten Änderungen führen. Die Maßnahme damit ein wichtiger Teil der Zugriffskontrolle, ist allerdings nur für Unternehmen relevant, die mit Quellcode arbeiten (z.B. Softwareanbeieter).
+
+---
+
+## ✅ A.8.4 – Sichere Authentisierung
+
+> **Maßnahme:**  
+> Sichere Authentisierungstechnologien und -verfahren müssen auf der Grundlage von Informationszugangsbeschränkungen und der themenspezifischen Richtlinie zur Zugangssteuerung implementiert werden.
+
+**📌 Bezug zur NIS-2:**  
+Die sichere Authentisierung baut auf der grundlegende Informationssicherheitszugangsbeschränkung auf. Hierfür sollten sinnvolle Technologien und Verfahren eingesetzt werden. NIS-2 fordert diese Technologien hier auch nur implizit über den Punkt der Zugriffskontrolle.
+
