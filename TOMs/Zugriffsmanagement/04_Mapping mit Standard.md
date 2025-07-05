@@ -1,4 +1,4 @@
-# 🔐 Mapping – Zugriffsmanagement und Authentifizierung NIS-2 zur ISO/IEC 27001:2022
+# Mapping – Zugriffsmanagement und Authentifizierung NIS-2 zur ISO/IEC 27001:2022
 
 > ⚠️ **Hinweis:** Die NIS-2-Richtlinie nennt im Artikel 21(2)(i) ausdrücklich die *„Zugriffskontrolle“* in Verbindung mit Personalsicherheit und dem Management von IKT-Systemen. Im deutschen Umsetzungsentwurf (§ 30 Abs. 2 Nr. 9) ist dies ebenfalls verankert.  
 > **Im Code of Conduct wird Zugriffsmanagement getrennt von der Personalsicherheit betrachtet**, da es über reine Personalmaßnahmen hinausgeht und sehr technische wie organisatorische Aspekte umfasst.  
