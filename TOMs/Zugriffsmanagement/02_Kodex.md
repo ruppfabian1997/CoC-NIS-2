@@ -6,6 +6,8 @@ Ziel dieses Kodex ist es, passende Konzepte zur Zugriffskontrolle zu etablieren.
 ## 3. Verhaltensregeln
 
 - Zugriff auf Systeme, Daten und Informationen erfolgt nur nach dem Prinzip „Need-to-Know“ und „Least Privilege“.
+  - > Need-to-Know: Nur Personen, die einen Zugriff wirklich brauchen, sollen diesen auch erhalten.
+  - > Least Privilege: Personen sollen insgesamt nur die nötigsten und möglich geringsten Zugangsrechte erhalten.
 - Jeder Zugriff muss über eine eindeutig zuordenbare Identität erfolgen.
 - Es dürfen keine Sammel- oder Gruppenidentitäten verwendet werden, außer sie sind explizit genehmigt.
 - Privilegierte Zugänge sind besonders restriktiv zu behandeln und regelmäßig zu kontrollieren.
