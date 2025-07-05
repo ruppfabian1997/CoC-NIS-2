@@ -11,10 +11,10 @@ Die NIS-2-Richtlinie verpflichtet Unternehmen dazu, geeignete Maßnahmen zur Bew
 Gemäß Artikel 21 Abs. 2 (b) der NIS-2-Richtlinie sowie §30 (2) Punkt 2 des aktuellen nationalen Umsetzungsgesetzes (Referentenentwurf) sind Unternehmen verpflichtet:
 
 - **Sicherheitsvorfälle** richtig zu bewältigen.  
-  → Darunter fallen Erkennung, Bewertung und Reaktion auf Sicherheitsvorfälle (Prozess und nicht nur ein einzelner Schritt)
-  → Es braucht einen strukturierten Ablauf (Näher betrachtet als BPMN Prozess)
-  → Einige Personen und Fachabteilungen sind daran beteiligt
-  → Es existieren Überschneidungen zu anderen Bausteinen im CoC (Meldepflicht, Notfall- und Krisenmanagement)
+  - Darunter fallen Erkennung, Bewertung und Reaktion auf Sicherheitsvorfälle (Prozess und nicht nur ein einzelner Schritt)
+  - Es braucht einen strukturierten Ablauf (Näher betrachtet als BPMN Prozess)
+  - Einige Personen und Fachabteilungen sind daran beteiligt
+  - Es existieren Überschneidungen zu anderen Bausteinen im CoC (Meldepflicht, Notfall- und Krisenmanagement)
 
 ---
 
