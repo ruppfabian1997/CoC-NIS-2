@@ -31,7 +31,7 @@ Zugriffsmanagement beginnt Identitätsmanagement. Wessen Identität geprüft und
 > *„Die Verwaltung von Authentisierungsinformationen muss durch geeignete Prozesse erfolgen, inklusive Schulung des Personals über den sicheren Umgang.“*
 
 **📌 Bezug zur NIS-2:**  
-Passwörter, Tokens und Zertifikate gehören zu den sensibelsten Elementen in der Zugriffskontrolle. Die ISO und NIS-2 fordern Sicherheitsstandards in der Authentisierung, ebenso wie ein Bewusstsein für sicheren Umgang damit [Siehe auch Schulungen und Cyberhygiene](TOMs/SchulungenundCyberhygiene.
+Passwörter, Tokens und Zertifikate gehören zu den sensibelsten Elementen in der Zugriffskontrolle. Die ISO und NIS-2 fordern Sicherheitsstandards in der Authentisierung, ebenso wie ein Bewusstsein für sicheren Umgang damit [Siehe auch Schulungen und Cyberhygiene](https://github.com/ruppfabian1997/CoC-NIS-2/blob/main/TOMs/Schulungen%20und%20Cyberhygiene/01_Überblick.md).
 
 ---
 
