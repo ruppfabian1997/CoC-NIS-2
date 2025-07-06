@@ -19,6 +19,7 @@ Ziel dieses Kodex ist es, die **Verfügbarkeit, Integrität und Vertraulichkeit*
 
 ### A. BCM-Maßnahmen  
 - Erstellung eines Business-Continuity-Plans (BCP), der Informationssicherheit bei Störungen aktiv berücksichtigt.
+  - > Ein BCP ist Plan der beschreibt, was zu tun ist, wenn etwas schiefgeht ( z. B. bei Cyberangriffen, Stromausfällen etc.)
 - Durchführung einer Business Impact Analyse (BIA) zur Identifikation priorisierter Geschäftsaktivitäten und IT-Ressourcen.
 - Festlegung von RTO (Recovery Time Objective) und RPO (Recovery Point Objective) für alle kritischen Informationssysteme und Datenbestände.
 - Regelmäßige Übungen, Simulationen und Managementfreigaben für BCM- und IT-Wiederherstellungsprozesse.
