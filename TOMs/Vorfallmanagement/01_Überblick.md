@@ -15,6 +15,8 @@ Gemäß Artikel 21 Abs. 2 (b) der NIS-2-Richtlinie sowie §30 (2) Punkt 2 des ak
   - Es braucht einen strukturierten Ablauf (Näher betrachtet als BPMN Prozess)
   - Einige Personen und Fachabteilungen sind daran beteiligt
   - Es existieren Überschneidungen zu anderen Bausteinen im CoC (Meldepflicht, Notfall- und Krisenmanagement)
+ 
+Im weiteren Verlauf des CoC ist neben Vorfallmanagement häufig auch von Incident Response die Rede. Die beiden Begriffe werden synonym verwendet. 
 
 ---
 
