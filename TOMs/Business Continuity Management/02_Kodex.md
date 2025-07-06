@@ -43,11 +43,12 @@ Ziel dieses Kodex ist es, die **Verfügbarkeit, Integrität und Vertraulichkeit*
 
 ## Mögliche beteiligte Rollen
 
-- BCM-Verantwortliche:r  
-- IT-Sicherheitsbeauftragte:r  
-- Incident-Response-Team  
+- BCM-Verantwortliche Person
+- CISO
+- Incident-Response-Team
+- Krisenstab
 - System- und Netzwerkadministration  
-- Geschäftsbereichsleitungen  
+- Geschäftsbereichsleitung
 - Externe Dienstleister (z. B. Backup-Provider, Cloud-Anbieter)
 
 ---
