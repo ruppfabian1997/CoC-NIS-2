@@ -27,8 +27,8 @@ Ziel dieses Abschnitts ist es, sicherzustellen, dass alle Informationssicherheit
 - Definition von **Kriterien zur Einstufung** von Ereignissen als Vorfall.
 - Aufbau eines **Incident-Response-Teams** mit geschultem Personal.
 - Erfassung und **strukturierte Dokumentation** von Vorfällen (z. B. via Ticketsystem).
-- Festlegung von **Kommunikationswegen** für interne und externe Meldungen (inkl. Behörden).
-- Integration in das Notfallmanagement ([Siehe Notfallmanagement]()).
+- Festlegung von **Kommunikationswegen** für interne und externe Meldungen ([Siehe auch Meldepflicht](https://github.com/ruppfabian1997/CoC-NIS-2/tree/main/TOMs/Notfall-%20und%20Krisenmanagement)).
+- Integration in das Notfallmanagement ([Siehe Notfallmanagement](https://github.com/ruppfabian1997/CoC-NIS-2/tree/main/TOMs/Notfall-%20und%20Krisenmanagement)).
 
 ### Technologisch
 
