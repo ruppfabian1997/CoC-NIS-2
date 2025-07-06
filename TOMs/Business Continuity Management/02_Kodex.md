@@ -58,8 +58,8 @@ Ziel dieses Kodex ist es, die **Verfügbarkeit, Integrität und Vertraulichkeit*
 - Business-Continuity-Plan mit IKT-Kontinuitäts- und Notfall-Krisenmanagement-Modulen  
 - Dokumentierte Business Impact Analyse (BIA) mit RTO/RPO  
 - Datensicherungsrichtlinie und Nachweise zu Wiederherstellungstests  
-- Redundanz-Architekturdiagramme und Umschalt-Protokolle  
-- Protokolle der Krisenübungen und Lessons Learned  
+- Redundanz-Belege (In Architektur oder für Lieferanten, etc.)
+- Protokolle von Krisenübungen und Lessons Learned  
 - Verträge mit externen Anbietern für Backup, Hosting und Cloud-Kontinuität
 
 ---
