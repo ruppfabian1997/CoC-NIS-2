@@ -59,7 +59,3 @@ Ziel dieses Kodex ist es, die **Verfügbarkeit, Integrität und Vertraulichkeit*
 - Verträge mit externen Anbietern für Backup, Hosting und Cloud-Kontinuität
 
 ---
-
-> 🔍 **Hinweis:**  
-> Die NIS-2-Richtlinie benennt Notfall- und Krisenmanagement explizit als Anforderung zur Betriebsfähigkeit. Die ISO/IEC 27001 verankert diese Themen **nicht als eigenen Maßnahmenbereich**, sondern integriert sie in BCM- und IKT-Kontinuitäts-Controls (**5.29** & **5.30**).  
-> Im Kodex werden **Notfall- und Krisenmanagement-Aspekte** dennoch als separate Maßnahmengruppe aufgeführt und gelten als integraler Bestandteil eines umfassenden BCM-Systems.
