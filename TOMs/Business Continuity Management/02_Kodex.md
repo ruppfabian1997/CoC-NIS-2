@@ -5,7 +5,7 @@ Ziel dieses Kodex ist es, die **Verfügbarkeit, Integrität und Vertraulichkeit*
 
 ---
 
-## ✅ Verhaltensregeln
+## Verhaltensregeln
 
 - Kritische Geschäftsprozesse und IT-Dienste müssen bei jeder Art von Störung fortgeführt oder binnen definierter Fristen (RTO/RPO) wiederhergestellt werden können.
 - Backups und Redundanzlösungen sind so zu betreiben, dass sie jederzeit einsatzbereit und geprüft sind.
@@ -15,7 +15,7 @@ Ziel dieses Kodex ist es, die **Verfügbarkeit, Integrität und Vertraulichkeit*
 
 ---
 
-## 🛠️ Empfohlene Maßnahmen
+## Empfohlene Maßnahmen
 
 ### A. BCM-Maßnahmen  
 - Erstellung eines Business-Continuity-Plans (BCP), der Informationssicherheit bei Störungen aktiv berücksichtigt.
@@ -38,7 +38,7 @@ Ziel dieses Kodex ist es, die **Verfügbarkeit, Integrität und Vertraulichkeit*
 
 ---
 
-## 🧑‍💼 Mögliche beteiligte Rollen
+## Mögliche beteiligte Rollen
 
 - BCM-Verantwortliche:r  
 - IT-Sicherheitsbeauftragte:r  
@@ -49,7 +49,7 @@ Ziel dieses Kodex ist es, die **Verfügbarkeit, Integrität und Vertraulichkeit*
 
 ---
 
-## 📁 Empfohlene Nachweisdokumente
+## Empfohlene Nachweisdokumente
 
 - Business-Continuity-Plan mit IKT-Kontinuitäts- und Notfall-Krisenmanagement-Modulen  
 - Dokumentierte Business Impact Analyse (BIA) mit RTO/RPO  
