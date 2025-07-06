@@ -4,13 +4,13 @@
 
 Ziel dieses Abschnitts ist es, sicherzustellen, dass alle Informationssicherheitsvorfälle erkannt, gemeldet, bewertet, behandelt und dokumentiert werden – und dass daraus kontinuierlich gelernt wird. So können Auswirkungen reduziert und Wiederholungen vermieden werden.
 
-> **Abgrenzung:** Das Vorfallmanagement wird in diesem Kodex getrennt vom Notfall- und Krisenmanagement behandelt. Während Vorfallmanagement operative Sicherheitsstörungen behandelt, greift das Notfallmanagement bei existenzbedrohenden Ausfällen (z. B. Totalverlust von Systemen, Daten oder Standorten).
+> **Abgrenzung:** Das Vorfallmanagement wird in diesem Kodex getrennt vom Notfall- und Krisenmanagement behandelt. Während Vorfallmanagement operative Sicherheitsstörungen behandelt, greift das Notfallmanagement bei existenzbedrohenden Ausfällen (z. B. Totalverlust von Systemen, Daten oder Standorten). Da Vorfälle aktiv gemeldet werden, existiert außerdem eine Schnittstelle zur Meldepflicht.
 
 ---
 
 ## Verhaltensregeln
 
-- Informationssicherheitsvorfälle müssen **unverzüglich gemeldet** werden – auch bei Verdachtsmomenten.
+- Informationssicherheitsvorfälle müssen **unverzüglich gemeldet** werden (Auch schon bei Verdacht).
 - Die Meldung erfolgt über die zentral definierte **Kontaktstelle oder ein Meldesystem**.
 - **Niemand** darf auf eigene Faust Maßnahmen ergreifen, die Beweise vernichten oder den Vorfall verschärfen könnten.
 - Mitarbeitende müssen die **Anweisungen des Incident-Response-Teams** befolgen.
@@ -26,11 +26,9 @@ Ziel dieses Abschnitts ist es, sicherzustellen, dass alle Informationssicherheit
 - Einführung eines dokumentierten **Incident-Management-Prozesses** mit klaren Rollen und Zuständigkeiten.
 - Definition von **Kriterien zur Einstufung** von Ereignissen als Vorfall.
 - Aufbau eines **Incident-Response-Teams** mit geschultem Personal.
-- Planung und Durchführung von **Sensibilisierung und Schulungen** zur Erkennung und Meldung von Vorfällen.
 - Erfassung und **strukturierte Dokumentation** von Vorfällen (z. B. via Ticketsystem).
 - Festlegung von **Kommunikationswegen** für interne und externe Meldungen (inkl. Behörden).
-- Durchführung von **Post-Mortem-Analysen** nach kritischen Vorfällen.
-- Integration in das Notfallmanagement (Übergang bei Eskalation).
+- Integration in das Notfallmanagement ([Siehe Notfallmanagement]()).
 
 ### Technologisch
 
