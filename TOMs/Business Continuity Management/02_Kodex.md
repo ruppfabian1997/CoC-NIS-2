@@ -18,22 +18,21 @@ Ziel dieses Kodex ist es, die **Verfügbarkeit, Integrität und Vertraulichkeit*
 ## 🛠️ Empfohlene Maßnahmen
 
 ### A. BCM-Maßnahmen  
-- **Störungen managen (Control 5.29)**  
-  Entwicklung von Plänen, die Informationssicherheit bei Störungen gewährleisten und kritische Prozesse schützen.
-- **IKT-Bereitschaft (Control 5.30)**  
-  Aufbau von IKT-Kontinuitätsplänen auf Basis einer Business Impact Analyse (BIA) mit klaren RTO- und RPO-Vorgaben.
-- **Redundanz (Control 8.14)**  
-  Duplizierte Systeme, Netzwerke und Standorte einrichten; automatische oder manuelle Umschaltung definieren und regelmäßig testen.
+- Erstellung eines Business-Continuity-Plans (BCP), der Informationssicherheit bei Störungen aktiv berücksichtigt.
+- Durchführung einer Business Impact Analyse (BIA) zur Identifikation priorisierter Geschäftsaktivitäten und IT-Ressourcen.
+- Festlegung von RTO (Recovery Time Objective) und RPO (Recovery Point Objective) für alle kritischen Informationssysteme und Datenbestände.
+- Regelmäßige Übungen, Simulationen und Managementfreigaben für BCM- und IT-Wiederherstellungsprozesse.
+- Einsatz geeigneter Monitoring- und Frühwarnsysteme, um mögliche Störungen frühzeitig zu erkennen.
 
 ### B. Backup-Strategie-Maßnahmen  
-- **Sicherung von Informationen (Control 8.13)**  
-  Implementierung einer Datensicherungsrichtlinie mit vollständigen Aufzeichnungen, gesicherten externen Speicherorten, Verschlüsselung und periodischen Wiederherstellungstests.
+- Implementierung einer Datensicherungsrichtlinie mit vollständigen Aufzeichnungen, gesicherten externen Speicherorten, Verschlüsselung und periodischen Wiederherstellungstests.
+- Sicherstellungdes Betriebs durch Redundanzen (z.B. in der Systemarchitektur)
 
 ### C. Notfall- und Krisenmanagement-Maßnahmen  
 - **Notfall- und Krisenplan**  
   Erstellen eines Plans mit Rollenbeschreibung, Melde- und Eskalationsprozessen, Kommunikationsmatrix und behördlicher Anbindung (z. B. CSIRT).
 - **Krisenteam & Übungen**  
-  Benennung eines Incident-Response-Teams, regelmäßige Simulationen von IT-Ausfällen und Multi-Incident-Szenarien, Lessons-Learned-Workshops.
+  Benennung eines Krisen-Teams, regelmäßige Simulationen von IT-Ausfällen und Multi-Incident-Szenarien, Lessons-Learned-Workshops.
 - **Kommunikation & Reporting**  
   Einrichtung eines zentralen Meldesystems, Standard-Templates für Erstmeldung und Abschlussbericht, Integration in das BCP-Dokument.
 
