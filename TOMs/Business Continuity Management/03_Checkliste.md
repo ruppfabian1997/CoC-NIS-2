@@ -1,16 +1,5 @@
 # ✅ BCM Checkliste – Business Continuity Management
 
-## Verhaltensregeln
-
-- [ ] Kritische Geschäftsprozesse und IT-Dienste sind bei Störungen innerhalb der definierten RTO/RPO wiederherstellbar.
-- [ ] Backups und Redundanzlösungen sind einsatzbereit und regelmäßig geprüft.
-- [ ] Notfall- und Krisenpläne sind dokumentiert, bekannt und geprobt.
-- [ ] Sicherheitsmaßnahmen sind auch unter Krisenbedingungen wirksam oder durch Ersatzlösungen abgedeckt.
-- [ ] BCM- und Krisenprozesse werden dokumentiert, getestet und regelmäßig verbessert.
-
----
-
-## Empfohlene Maßnahmen
 
 ### BCM-Maßnahmen
 - [ ] Business-Continuity-Plan (BCP) ist erstellt und berücksichtigt Informationssicherheit bei Störungen.
