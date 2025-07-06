@@ -45,3 +45,22 @@ Ziel dieses Abschnitts ist es, sicherzustellen, dass Risiken für die Informatio
 | R-002    | Missbrauch Adminrechte   | Active Directory | Zugriff verletzt | Mittel   | Hoch   | MFA + Logging        | In Planung |
 | R-003    | Verlust Dienstlaptop     | Mobiles Gerät    | Vertraulichkeit  | Niedrig  | Mittel | Verschlüsselung HDD  | Umgesetzt  |
 
+---
+
+## Mögliche beteiligte Rollen
+
+- CISO 
+- Geschäftsfürhung (Einbezieheung in die Bewertung und Akzeptanz) 
+- Risikoeigner (Verantwortliche in Fachbereichen)
+
+---
+
+## Empfohlene Nachweisdokumente
+
+- Risikorichtlinie / Methodikbeschreibung 
+- Risikoanalyse-Doku 
+- Auszug und ganze Datei der Risikoanalyse (z.B in Excel) 
+- Maßnahmenkatalog
+- Management-Freigaben & Protokolle bei Risikoakzeptanz
+
+
