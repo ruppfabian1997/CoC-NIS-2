@@ -2,6 +2,10 @@
 
 Die NIS-2-Richtlinie verlangt, dass Unternehmen Business Continuity, einschließlich Backups, Notfall- und Krisenmanagement berücksichtigen. Folgende Controls aus der ISO 27001 berücksichtigen diese Punkte:
 
+> ⚠️ **Hinweis:** Die NIS-2-Richtlinie benennt das Notfall- und Krisenmanagement explizit als zentrale Anforderung zur Sicherstellung der Betriebsfähigkeit kritischer Dienste. In der ISO/IEC 27001:2024 wird dieses Thema jedoch nicht als eigenständiger Bereich mit spezifischen Maßnahmen aufgeführt. Daher erfolgt im Mapping lediglich eine Zuordnung zu den Controls im Bereich Business Continuity Management (BCM) und Backup-Strategien. Dennoch finden Notfall- und Krisenmanagement-Aspekte im Kodex Anwendung.
+
+
+
 ---
 
 ## ✅ Control 5.29 – Informationssicherheit bei Störungen
