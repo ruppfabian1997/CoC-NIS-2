@@ -17,6 +17,12 @@ Der folgende Ablauf zeigt ein sehr simples Beispiel zur Durchführung der BCM-Pl
 
 *Abb.: Beispielhafter BCM-Prozess*
 
+Der folgende Ablauf zeigt sehr grob den Subprozess der Business Impact Analyse. Diese ist ein wesentliches Werkzeug, um die Business Continuity im Unternehmen sicherzustellen.
+
+![Prozessmodell zur BIA](media/BIA.png)
+
+*Abb.: Beispielhafter BCM-Prozess*
+
 > Hinweis: Weitere Prozessmodelle zum Krisenmanagement, Eskaslationsmodelle zur Behandlung von Vorfällen und Schnittstellen müssen in Zukunft noch hinzugefügt werden!
 
 
