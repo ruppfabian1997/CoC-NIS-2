@@ -7,7 +7,7 @@ Die NIS-2-Richtlinie verpflichtet Unternehmen Konzepte und Verfahren für den Ei
 
 Der folgende Ablauf stellt ein Beispiel für einen möglichen Prozess im Einsatz von Kryptophie dar.
 
-![Prozessmodell zur Meldung von Sicherheitsvorfällen](media/Meldepflicht.drawio.png)
+![Architekturmodell Kryptographie](media/Kryptographie_Architektur.png)
 
 *Abb.: Beispielhafter Ablauf eines Meldeprozesses bei Sicherheitsvorfällen.*
 
