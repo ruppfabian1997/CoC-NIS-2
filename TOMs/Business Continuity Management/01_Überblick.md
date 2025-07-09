@@ -21,7 +21,7 @@ Der folgende Ablauf zeigt sehr grob den Subprozess der Business Impact Analyse. 
 
 ![Prozessmodell zur BIA](media/BIA.png)
 
-*Abb.: Beispielhafter BCM-Prozess*
+*Abb.: Beispielhafter Prozess zur BIA*
 
 > Hinweis: Weitere Prozessmodelle zum Krisenmanagement, Eskaslationsmodelle zur Behandlung von Vorfällen und Schnittstellen müssen in Zukunft noch hinzugefügt werden!
 
