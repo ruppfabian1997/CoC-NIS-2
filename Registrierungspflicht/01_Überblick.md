@@ -18,7 +18,7 @@ Die Registrierung muss aktuell gehalten und bei relevanten Änderungen aktualisi
 - Es liegt eine zentrale IT-/Compliance-Abteilung vor.
 - Die IP-Adressbereiche existieren, ebenso wie Handelsregisternummer, Aufsichtsbehörde usw.
 
-![Prozessmodell zur Registrierung beim BSI](media/Registrierung_bpmn.png)
+![Prozessmodell zur Registrierung beim BSI](media/Registrirung_bpmn.png)
 
 *Abb.: Beispielhafter Ablauf zur Registrierung beim BSI zur Erfüllung der Registrierungspflicht*
 
