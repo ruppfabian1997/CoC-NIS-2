@@ -9,7 +9,7 @@ Die NIS-2-Richtlinie verpflichtet in Artikel 21 (2) (c) und im Referentenentwurf
 
 - **Krisenmanagement und Notfälle:** Die Richtlinie fordert ein strukturiertes Vorgehen zur Bewältigung von Notfällen. Das schließt die Definition klarer Rollen, Kommunikationswege und Wiederanlaufprozesse mit ein.
 
-## Möglicher Prozess zur Meldung von Sicherheitsvorfällen
+## Mögliche Prozesse zu BPMN und der Business Impact Analyse
 
 Der folgende Ablauf zeigt ein sehr simples Beispiel zur Durchführung der BCM-Planung. In der Realität ist der Prozess wesentlich komplexer und enthält noch weitere Akteure und Aktivitäten. Der hier gezeigte Prozess dient nur als Richtung für Unternehmen, welche Aktivitäten sehr wichtig sind.
 
