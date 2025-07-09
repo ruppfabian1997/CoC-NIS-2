@@ -5,13 +5,15 @@ Die NIS-2-Richtlinie verpflichtet Unternehmen Konzepte und Verfahren für den Ei
 
 - **Einsatz von Kryptographie** Die Richtlinie verlangt, dass betroffene Einrichtungen Konzepte und Verfahren für den Einsatz von Kryptografie und Verschlüsselungen entwickeln. Zum Einsatz kommen kann dies beispielsweise bei der Übertragung und Speicherung von Daten.
 
-Der folgende Ablauf stellt ein Beispiel für einen möglichen Prozess im Einsatz von Kryptophie dar.
+## Möglicher Aufbau und Unterteilung der einzelnen Kryptographiebereichen
+
+Statt dem klassischen Prozessmodell (wie z. B. in BPMN) wurde für diesen Abschnitt bewusst ein Schichten-Modell gewählt. Der Grund: Der Einsatz kryptographischer Verfahren ist kein linearer Geschäftsprozess, sondern umfasst organisatorische Rahmenbedingungen, technische Komponenten sowie klare Rollenverteilungen. Der Fokus liegt daher auf einem Schichtenmodell, das die zentralen Elemente von Richtlinien, Schlüsselmanagement und technischer Umsetzung kurz zusammenführt.
 
 ![Architekturmodell Kryptographie](media/Krypto_Arch.png)
 
-*Abb.: Beispielhafter Ablauf eines Meldeprozesses bei Sicherheitsvorfällen.*
+*Abb.: Schichtenmodell für den Einsatz von kryptographie im Unternehmen*
 
-> Hinweis: Dieses Prozessmodell dient als Orientierung und sollte an die individuellen Strukturen und Verantwortlichkeiten des Unternehmens angepasst werden.
+> Hinweis: Dieses Modell dient als Orientierung und sollte an die individuellen Strukturen und Verantwortlichkeiten des Unternehmens angepasst werden.
 
 
 
