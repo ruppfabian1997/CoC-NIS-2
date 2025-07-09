@@ -19,7 +19,7 @@ Die Registrierung muss aktuell gehalten und bei relevanten Änderungen aktualisi
 - Die IP-Adressbereiche existieren, ebenso wie Handelsregisternummer, Aufsichtsbehörde usw.
 
 
-![Registrierung](Registrierungspflicht/media/Registriung_bpmn.png)
+![Registrierung](Meldepflicht/media/Meldepflicht.drawio.png)
 
 
 *Abb.: Beispielhafter Ablauf zur Registrierung beim BSI zur Erfüllung der Registrierungspflicht*
