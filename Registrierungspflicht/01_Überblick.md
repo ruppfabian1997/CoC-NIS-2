@@ -28,7 +28,7 @@ Die Registrierung muss aktuell gehalten und bei relevanten Änderungen aktualisi
 
 Der folgende Ablauf stellt ein Beispiel für einen möglichen internen Prozess zur Dokumentation von Maßnahmen, Planung und Erstellung von Nachweisen und der Durchführung von Nachweisprüfungen:
 
-![Prozessmodell zur Meldung von Sicherheitsvorfällen](media/Prozess_Nachweispflicht.png)
+![Prozessmodell zur Meldung von Sicherheitsvorfällen](media/Registrierung_bpmn.png)
 
 *Abb.: Beispielhafter Ablauf zur Erfüllung der Nachweispflicht*
 
