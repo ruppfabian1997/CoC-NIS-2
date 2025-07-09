@@ -24,5 +24,13 @@ Die Registrierung muss aktuell gehalten und bei relevanten Änderungen aktualisi
 
 > Hinweis: Diese Prozessbeschreibung basiert auf § 33 des deutschen NIS-2-Durchführungsgesetzes (Bearbeitungsstand 23.06.2025). § 34 (Besondere Registrierungspflicht für bestimmte Einrichtungsarten) wird in diesem Ablauf nicht berücksichtigt, da er spezifische Sonderfälle betrifft. Es handelt sich um eine modellhafte Darstellung unter Annahme eines mittelständischen Unternehmens, das als wichtige Einrichtung eingestuft wurde.
 
-![Registrierung](Meldepflicht/media/Meldepflicht.drawio.png)
+## Möglicher Prozess zur Dokumentation von Maßnahmen un der Erstellung von Nachweisen
+
+Der folgende Ablauf stellt ein Beispiel für einen möglichen internen Prozess zur Dokumentation von Maßnahmen, Planung und Erstellung von Nachweisen und der Durchführung von Nachweisprüfungen:
+
+![Prozessmodell zur Meldung von Sicherheitsvorfällen](media/Prozess_Nachweispflicht.png)
+
+*Abb.: Beispielhafter Ablauf zur Erfüllung der Nachweispflicht*
+
+> Hinweis: Dieses Prozessmodell dient als Orientierung. Die Nachweispflicht ist im Kern ein Pflicht, die in fast allen relevanten Maßnahmenpflichten in NIS-2 eine Rolle spielt. Daher ist es schwierig, den Prozess isoliert zu betrachten.
 
