@@ -13,37 +13,8 @@ Die NIS-2-Richtlinie verpflichtet in Artikel 21 (2) (c) und im Referentenentwurf
 
 Der folgende Ablauf zeigt ein Beispiel für einen internen Business-Continuity-Prozess gemäß Artikel 21 NIS-2. Er umfasst präventive Maßnahmen, Reaktion auf Vorfälle und Wiederherstellung:
 
-NOCH ÄNDERN: 
-┌────────────────────────────┐
-│ Risikoanalyse & Prävention │
-└────────────┬───────────────┘
-             ↓
-┌────────────────────────────┐
-│ Notfall- & Krisenplanung   │
-│ ▸ Rollen & Abläufe         │
-│ ▸ Kommunikationswege       │
-└────────────┬───────────────┘
-             ↓
-┌────────────────────────────┐
-│ Krisenerkennung & Alarm    │
-└────────────┬───────────────┘
-             ↓
-┌────────────────────────────┐
-│ Sofortmaßnahmen & Backup   │
-└────────────┬───────────────┘
-             ↓
-┌────────────────────────────┐
-│ Wiederanlauf & Recovery    │
-│ ▸ System-/Prozess-Wiederherstellung │
-└────────────┬───────────────┘
-             ↓
-┌────────────────────────────┐
-│ Auswertung & Lessons Learned │
-└────────────────────────────┘
 
-
-
-![Prozessmodell zur Meldung von Sicherheitsvorfällen](media/Meldepflicht.drawio.png)
+![Prozessmodell zur Business Continuity](media/BCM_Planung.png)
 
 *Abb.: Beispielhafter Ablauf eines Meldeprozesses bei Sicherheitsvorfällen.*
 
