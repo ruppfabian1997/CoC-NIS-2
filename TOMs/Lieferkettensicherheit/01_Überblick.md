@@ -9,7 +9,7 @@ Gemäß NIS-2 sind Unternehmen verpflichtet, auch die Sicherheit ihrer Lieferket
 
 Der folgende Ablauf stellt ein Beispiel für einen möglichen internen Prozess zur Erhöhung der Lieferkettensicherheit dar.
 
-![Prozessmodell zur Meldung von Sicherheitsvorfällen](media/Meldepflicht.drawio.png)
+![Prozessmodell zur Meldung von Sicherheitsvorfällen](media/Lieferanten.png)
 
 *Abb.: Beispielhafter Ablauf*
 
