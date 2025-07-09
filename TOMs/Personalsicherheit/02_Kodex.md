@@ -3,7 +3,7 @@
 ## 1. Ziel des Abschnitts  
 Ziel dieses Kodex ist es, organisatorische Maßnahmen zur Sicherheit des Personals zu definieren – insbesondere im Hinblick auf Zugriffsrechte, Integrität im Arbeitsverhältnis, sichere Beschäftigungsprozesse sowie Vertraulichkeit im Umgang mit sensitiven Informationen.
 
-> 🧭 Hinweis: Die ISO/IEC 27001 widmet dem Thema „Perosnalsicherheit“ ein eigenes Kapitel (Kap. 6). Der CoC behandelt Schulung & Sensibilisierung zur Informationssicherheit separat im Modul *Schulungen & Cyberhygiene*.
+> Hinweis: Die ISO/IEC 27001 widmet dem Thema „Perosnalsicherheit“ ein eigenes Kapitel (Kap. 6). Der CoC behandelt Schulung & Sensibilisierung zur Informationssicherheit separat im Modul *Schulungen & Cyberhygiene*.
 
 ---
 
