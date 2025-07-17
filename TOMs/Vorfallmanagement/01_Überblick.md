@@ -22,9 +22,9 @@ Im weiteren Verlauf des CoC ist neben Vorfallmanagement häufig auch von Inciden
 
 ## Möglicher Prozess zur Umsetzung der Personalsicherheit
 
-Der folgende Ablauf zeigt exemplarisch, wie Unternehmen die Bewältigung von Sicherheitsvorfällen etablieren können.
+Der folgende Ablauf zeigt exemplarisch, wie Unternehmen bei der Bewältigung von Sicherheitsvorfällen vorgehen können. Es ist zu beachten, dass dieser Prozess in vielen Fällen hoch-automatisiert ablaufen kann. Auch die verschiedenen daran beteiligten Stellen variieren stark je nach Unternehmen. Nicht jedes Unternehmen kann sich beispielsweise ein eigenes Incident-Response-Team oder ein SIEM-System leisten. Der Prozess ist lediglich ein Best-Practice-Vorschlag und sollte noch weiter optimiert und angepasst werden.
 
-![Prozessmodell zur Personalsicherheit](media/Personalsicherheit.drawio.png)
+![Prozessmodell zum Vorfallsmanagement](media/Personalsicherheit.drawio.png)
 
 *Abb.: Beispielhafter Ablauf bei der Bewältigung von Sicherheitsvorfällen
 
