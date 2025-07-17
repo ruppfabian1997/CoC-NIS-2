@@ -21,11 +21,11 @@ Gemäß Artikel 21 Abs. 2 der NIS-2-Richtlinie sowie §30 (2) Punkt 9 des aktuel
 
 ## Möglicher Prozess zur Umsetzung der Personalsicherheit
 
-Der folgende Ablauf zeigt exemplarisch, wie Unternehmen die Sicherheit des Personals in einem strukturierten Prozess umsetzen können – von der Personalauswahl bis zur Verabschiedung:
+Der folgende Ablauf zeigt exemplarisch, wie der Bewerbungsprozess aus der Perspektive der Informationssicherheit durchgeführt werden kann.
 
-![Prozessmodell zur Personalsicherheit](media/Personalsicherheit.drawio.png)
+![Prozessmodell zur Bewerbung](media/Bewerbung.png)
 
-*Abb.: Beispielhafter Ablauf zur Umsetzung der Personalsicherheit gemäß NIS-2.*
+*Abb.: Beispielhafter Ablauf zur Umsetzung der Bewerbung nach Sicherheitsstandards*
 
 ---
 
