@@ -21,7 +21,7 @@ Gemäß Artikel 21 Abs. 2 der NIS-2-Richtlinie sowie §30 (2) Punkt 9 des aktuel
 
 ## Möglicher Prozess zur Umsetzung der Personalsicherheit
 
-Der folgende Ablauf zeigt exemplarisch, wie der Bewerbungsprozess aus der Perspektive der Informationssicherheit durchgeführt werden kann.
+Der folgende Ablauf zeigt exemplarisch, wie der **Bewerbungsprozess** aus der Perspektive der Informationssicherheit durchgeführt werden kann. Es gibt allerdings noch weitere Prozesse, wie schulungsprozesse für Personal (Siehe Schulung und Sensibilisierung), sichere Offboardingprozesse etc. Diese sind allerdings nicht explizit hier aufgeführt.
 
 ![Prozessmodell zur Bewerbung](media/Bewerbung.png)
 
