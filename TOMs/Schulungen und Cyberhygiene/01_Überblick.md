@@ -18,7 +18,7 @@ Eine gute Sicherheitskultur besteht aus klaren Verhaltensregeln (Cyberhygiene) u
 
 Der folgende Ablauf stellt ein Beispiel für einen möglichen internen schulungszyklus und einen Cyberhygieneprozess aus Sicht der Mitarbeitenden dar.
 
-![Prozessmodell zur Durchführung von Schulungen(media/Mitarbeiter_Schulung.png)
+![Prozessmodell zur Durchführung von Schulungen](media/Mitarbeiter_Schulung.png)
 
 *Abb.: Beispielhafter Ablauf von Schulungen und Awarenessmaßnahmen aus Sicht eines Mitarbeitenden*
 
