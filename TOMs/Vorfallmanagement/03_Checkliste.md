@@ -20,10 +20,10 @@ Diese Checkliste hilft bei der Bewertung, ob das Vorfallmanagement im Unternehme
 ## Technische Umsetzung
 
 - [ ] Ist ein System zur Protokollierung sicherheitsrelevanter Ereignisse vorhanden (z. B. SIEM)?
-- [ ] Werden System- und Netzaktivitäten aktiv überwacht (z. B. IDS, UEBA)?
+- [ ] Werden System- und Netzaktivitäten aktiv überwacht und protokolliert?
 - [ ] Gibt es ein Alarmierungssystem bei auffälligem Verhalten oder Angriffsmustern?
 - [ ] Wird die forensische Beweissicherung (z. B. gemäß ISO/IEC 27037) unterstützt?
-- [ ] Können Vorfallprotokolle revisionssicher archiviert und ausgewertet werden?
+- [ ] Können Vorfallprotokolle sicher archiviert und ausgewertet werden?
 
 ---
 
