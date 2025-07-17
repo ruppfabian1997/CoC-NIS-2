@@ -64,7 +64,18 @@ themenspezifischer Richtlinien und Verfahren erhalten, die für ihr
 berufliches Arbeitsgebiet relevant sind.“*
 
 **Bezug zur NIS-2:**  
-Control 6.3 ist am konkretesten mit der Anfoderung aus NIS-2 verknüpft. Beide fordern Verfahren für Ausbildungen und Schulungen für Mitarbeitende, um das Sicherheitsbewusstsein nachhaltig zu stärekn.
+Control 6.3 ist am konkretesten mit der Anfoderung aus NIS-2 verknüpft. Beide fordern Verfahren für Ausbildungen und Schulungen für Mitarbeitende, um das Sicherheitsbewusstsein nachhaltig zu stärken.
 
+---
+
+## Control 6.4 – Maßregelungsprozess
+
+> *„Ein Maßregelungsprozess muss formalisiert und kommuniziert werden,
+um Schritte gegen Mitarbeiter und andere interessierte Parteien zu
+ergreifen, die einen Verstoß gegen die Informationssicherheitspolitik
+begangen haben.“*
+
+**Bezug zur NIS-2:**  
+Der Maßregelungsprozess ist nicht explizit in NIS-2 genannt, allerdings fester Bestandteil eines Awarenessprozesses. Die Maßregelung greift, wenn Mitarbeitende beispielsweise auf Phising-Kampagnen falsch reagieren. 
 
 
