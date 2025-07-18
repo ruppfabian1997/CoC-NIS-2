@@ -26,6 +26,18 @@ Sicherstellung des vollständigen, sicheren und nachweisbaren Umgangs mit Assets
 
 ---
 
+## Mögliche beteiligte Rollen
+
+- IT-/Informationssicherheitsbeauftragte (CISO, ISO, IT-Security)
+- Asset Manager / Inventarverantwortliche
+- IT-Administratoren
+- Fachbereiche als Asset Owner
+- Einkauf (bei Beschaffung und Aussonderung)
+- HR (bei On-/Offboarding-Prozessen)
+- Mitarbeitende und externe Dienstleister
+
+---
+
 ## Empfohlene Nachweisdokumente
 
 - Vollständiges, aktuelles Asset-Inventar
