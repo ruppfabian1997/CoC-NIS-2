@@ -1,4 +1,4 @@
-# 📌 Mapping – Personalsicherheit gemäß Art. 21(2)(d) NIS-2 zur ISO/IEC 27001:2022
+# Mapping – Personalsicherheit gemäß Art. 21(2)(d) NIS-2 zur ISO/IEC 27001:2022
 
 > ⚠️ **Hinweis:** Die ISO/IEC 27001 widmet dem Thema „Sicherheit von Personen“ ein eigenes Kapitel im Annex (Kapitel 6). Dies unterstreicht die zentrale Bedeutung, die dem sicheren Umgang mit internem und externem Personal gegeben wird.
 
