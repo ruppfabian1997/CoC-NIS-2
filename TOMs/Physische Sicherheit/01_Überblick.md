@@ -6,13 +6,10 @@
 
 Die NIS-2-Richtlinie selbst erwähnt keine expliziten Anforderungen zur physischen Sicherheit. Jedoch hebt der ENISA Implementing Guide diesen Bereich als relevant für die Umsetzung anderer Pflichten hervor. Drei zentrale Themen sind:
 
-- **13.1 Supporting Utilities**  
   → Unternehmen müssen gewährleisten, dass unterstützende Versorgungseinrichtungen wie Strom, Wasser oder Klimatisierung gesichert sind und deren Ausfall nicht zur Beeinträchtigung kritischer Systeme führt.
 
-- **13.2 Protection against Physical and Environmental Threats**  
   → IT-Systeme und sensible Infrastruktur müssen gegen physische Bedrohungen wie Feuer, Wasser, Diebstahl und Vandalismus geschützt werden.
 
-- **3 Perimeter and Physical Access Control**  
   → Der Zutritt zu sensiblen Bereichen sollte durch geeignete Zugangskontrollen physisch gesichert werden – etwa durch Kartenlesesysteme, Wachpersonal oder biometrische Verfahren.
 
 ---
