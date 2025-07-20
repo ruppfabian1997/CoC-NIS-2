@@ -27,9 +27,3 @@ Du willst wissen, ob dein Unternehmen gut auf die Meldung von Sicherheitsvorfäl
 - [ ] Enthält der Bericht eine Bewertung potenzieller grenzüberschreitender Effekte?
 - [ ] Gibt es eine zentrale Stelle oder Vorlage zur Berichtserstellung?
 
-## Dokumentation & Nachweis
-
-- [ ] Werden alle Meldeprozesse und -berichte sicher dokumentiert?
-- [ ] Ist die Nachvollziehbarkeit für interne Audits und Aufsichtsbehörden sichergestellt?
-
-
