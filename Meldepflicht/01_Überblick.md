@@ -3,9 +3,9 @@ Die NIS-2-Richtlinie verpflichtet Unternehmen zur strukturierten und fristgerech
 
 ## Gesetzlicher Hintergrund – Artikel 23 NIS-2
 
-- **Frühwarnung:** Innerhalb von 24 Stunden nach Kenntnisnahme eines erheblichen Sicherheitsvorfalls ist eine Frühwarnung an das zuständige CSIRT oder die Aufsichtsbehörde abzugeben – inklusive etwaiger Verdachtsmomente auf böswillige Handlungen oder grenzüberschreitende Auswirkungen.
+- **Frühwarnung:** Innerhalb von 24 Stunden nach Kenntnisnahme eines erheblichen Sicherheitsvorfalls ist eine Frühwarnung an das zuständige CSIRT oder die Aufsichtsbehörde abzugeben, inklusive möglicher Verdachtsmomente auf böswillige Handlungen oder problematischen Auswirkungen.
 
-- **Erstmeldung:** Innerhalb von 72 Stunden nach Kenntnisnahme ist eine erste offizielle Meldung des Vorfalls einzureichen. Diese muss eine erste Bewertung der Auswirkungen sowie – falls verfügbar – Kompromittierungsindikatoren enthalten.
+- **Erstmeldung:** Innerhalb von 72 Stunden nach Kenntnisnahme ist eine erste offizielle Meldung des Vorfalls einzureichen. Diese muss eine erste Bewertung der Auswirkungen enthalten
 
 - **Abschlussbericht:** Spätestens einen Monat nach der Erstmeldung ist ein vollständiger Abschlussbericht einzureichen. Dieser enthält eine detaillierte Beschreibung des Vorfalls, seiner Ursachen, getroffener Abhilfemaßnahmen sowie etwaiger Auswirkungen auf andere Mitgliedstaaten.
 
@@ -17,7 +17,7 @@ Die NIS-2-Richtlinie verpflichtet Unternehmen zur strukturierten und fristgerech
 
 ## Konkretisierung im deutschen Referentenentwurf zur Umsetzung der NIS-2-Richtlinie 
 **§ 32 NIS2UmsuCG-E:**
-Der deutsche Gesetzgeber konkretisiert die Meldepflichten in § 32 des aktuellen Referentenentwurfs. Besonders wichtige und wichtige Einrichtungen müssen erhebliche Sicherheitsvorfälle gestuft melden – beginnend mit einer Frühmeldung innerhalb von 24 Stunden, einer vertieften Meldung innerhalb von 72 Stunden sowie einem Abschlussbericht spätestens nach einem Monat. Sofern der Vorfall zu diesem Zeitpunkt noch andauert, ist stattdessen eine Fortschrittsmeldung abzugeben. Die Meldung erfolgt an eine zentrale Meldestelle, die gemeinsam vom BSI und dem Bundesamt für Bevölkerungsschutz betrieben wird. Weitere Details zum Meldeverfahren sollen nach Anhörung der Wirtschaft veröffentlicht werden.
+Der deutsche Gesetzgeber konkretisiert die Meldepflichten in § 32 des aktuellen Referentenentwurfs. Besonders wichtige und wichtige Einrichtungen müssen erhebliche Sicherheitsvorfälle gestuft melden. Der Prozess beginnt hier mit einer Frühmeldung innerhalb von 24 Stunden, einer vertieften Meldung innerhalb von 72 Stunden sowie einem Abschlussbericht spätestens nach einem Monat. Sofern der Vorfall zu diesem Zeitpunkt noch andauert, ist stattdessen eine Fortschrittsmeldung abzugeben. Die Meldung erfolgt an eine zentrale Meldestelle, die gemeinsam vom BSI und dem Bundesamt für Bevölkerungsschutz betrieben wird. Weitere Details zum Meldeverfahren sollen nach Anhörung der Wirtschaft veröffentlicht werden.
 
 ## Möglicher Prozess zur Meldung von Sicherheitsvorfällen
 
