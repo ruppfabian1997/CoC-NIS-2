@@ -1,5 +1,3 @@
-# Mapping – Sicherheitsmaßnahmen bei Erwerb, Entwicklung und Wartung von IT-Systemen gemäß ISO/IEC 27001:2022
-
 Der Fokus in diesem Abschnitt liegt auf dem Mapping der ISO-Controls zum sicheren Lebenszyklus von informationstechnischen Systemen, dem Schwachstellenmanagement und der operativen Wartung.
 
 ---
