@@ -9,7 +9,7 @@ Ziel dieses Kodex ist es, Sicherheitsanforderungen und organisatorische Maßnahm
 
 - IT-Systeme dürfen nur unter Berücksichtigung definierter Sicherheitsanforderungen beschafft oder entwickelt werden.
 - Sicherheitsanforderungen sind frühzeitig und verbindlich im Projekt oder sogar im Ausschreibungsprozess festzulegen.
-- Bei der Softwareentwicklung sind Best Practices (sichere Codierung, Architekturprinzipien und Prüfmechanismen) anzuwenden.
+- Bei der Softwareentwicklung sind Best Practices (Secure Coding, Architekturprinzipien und Prüfmechanismen) anzuwenden.
 - Entwicklungs-, Test- und Produktionsumgebungen müssen strikt voneinander getrennt und separat abgesichert betrieben werden.
 - Änderungen an produktiven Systemen sind nur über ein formales Change-Management-Verfahren erlaubt.
 - Schwachstellen müssen aktiv überwacht, dokumentiert und nach abgestimmten Verfahren behoben oder kommuniziert werden.
