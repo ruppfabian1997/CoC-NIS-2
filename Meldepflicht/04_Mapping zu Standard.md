@@ -51,7 +51,7 @@ zur  Verstärkung  und  Verbesserung  der
 Informationssicherheitsmaßnahmen  genutzt  werden.“*
 
 **Bezug zur NIS-2:**  
-Dieser Control kann sich auf den Abschlussbericht gemäß Artikel 23 NIS-2 beziehen. Ergänzend müssen NIS-2 relevante Fristen, Berichtspflichten und ggf. eine öffentliche Bekanntmachung erweitert werden.
+Dieser Control kann sich auf den Abschlussbericht in NIS-2 beziehen. Ergänzend müssen NIS-2-relevante Fristen, Berichtspflichten und eine mögliche öffentliche Bekanntmachung hinzugefügt werden.
 
 ---
 
