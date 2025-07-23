@@ -30,7 +30,7 @@ entscheiden,  ob  sie  als  Informationssicherheitsvorfälle  eingestuft  werden
 müssen.“*
 
 **Bezug zur NIS-2:**  
-Diese Anforderung ist zentral für die Entscheidung, ob ein Vorfall meldepflichtig im Sinne von Artikel 23 ist. NIS-2 verlangt zusätzlich eine Definition, wann ein Vorfall als „erheblich“ gilt. Hier besteht alsonErgänzungsbedarf!
+Diese Anforderung ist zentral für die Entscheidung, ob ein Vorfall meldepflichtig im Sinne von Artikel 23 ist. NIS-2 verlangt zusätzlich eine Definition, wann ein Vorfall als „erheblich“ gilt. Hier besteht also Ergänzungsbedarf!
 
 ---
 
@@ -40,7 +40,7 @@ Diese Anforderung ist zentral für die Entscheidung, ob ein Vorfall meldepflicht
 dokumentierten  Verfahren  reagiert  werden.“*
 
 **Bezug zur NIS-2:**  
-Es muss entsprechend dokumentierter Verfahren auf das Sicherheitsereignis reagiert werden. Es kann bereits etablierte Policies geben, die das regeln NIS-2 fordert als "Policy" selbst eigene Regeln, Wie und Wann auf ein Sichereheitsereignis reagiert werden soll. Eine Komination aus der bereits vorhandenen Policy, angepasst auf NIS-2 spezifische Regeln ist heirbei ein guter Ansatz.
+Es muss nach dokumentierten Verfahren auf das Sicherheitsereignis reagiert werden. Es kann bereits etablierte Policies geben, die das regeln. NIS-2 fordert als "Policy" selbst eigene Regeln, wie und wann auf ein Sicherheitsereignis reagiert werden soll. Eine Kombination aus der bereits vorhandenen Policy, angepasst auf NIS-2 spezifische Regeln ist hier ein guter Ansatz.
 
 ---
 
