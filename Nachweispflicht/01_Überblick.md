@@ -10,7 +10,13 @@ Die NIS-2-Richtlinie verpflichtet Unternehmen zu einer systematischen Dokumentat
 
 - **Artikel 32 & 34 (Aufsicht und Sanktionen)** Die zuständigen Behörden sind berechtigt, umfassende Kontrollen durchzuführen. Fehlen Nachweise oder ist die Dokumentation unzureichend, drohen empfindliche Geldbußen.
 
+## Konkretisierung im deutschen Referentenentwurf zur Umsetzung der NIS-2-Richtlinie 
+**§39 Nachweispflichten für Betreiber kritischer Anlagen**
+Im Referentenentwurf gibt es einen Artikel speziell für die Nachweispflicht für EInrichtungen die unter KRITS fallen (z.B ein Energieunternehmen). Diese müssen alle drei Jahre nachweisen, dass sie die vorgeschriebenen Sicherheitsmaßnahmen umgesetzt haben. Dieser Nachweis kann durch Audits, Prüfungen oder Zertifizierungen erfolgen. Dabei müssen sie auch Sicherheitsmängel offenlegen.
 
+Das BSI darf hierbei Dokumentationen anfordern, auf denen die Prüfungen basieren oder 
+bei Mängeln einen Plan zur Behebung und eventuell den Nachweis der Behebung verlangen.
+Das BSI kann auch festlegen, wie diese Prüfungen ablaufen sollen (z. B. welche Nachweise gültig sind). Diese Vorgaben werden öffentlich auf der Website des BSI veröffentlicht.
 
 ## Möglicher Prozess zur Dokumentation von Maßnahmen un der Erstellung von Nachweisen
 
