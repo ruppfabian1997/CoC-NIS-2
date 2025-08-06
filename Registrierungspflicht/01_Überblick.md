@@ -1,7 +1,7 @@
 Die NIS-2-Richtlinie verpflichtet betroffene Unternehmen dazu, sich bei der zuständigen nationalen Behörde zu registrieren.
 
 ## Gesetzlicher Hintergrund - Artikel 28 NIS-2
-**Wesentliche und wichtige Einrichtungen müssen der zuständigen Behörde Informationen bereitstellen, darunter:**
+**Wesentliche und wichtige Einrichtungen müssen sich registrieren und der zuständigen Behörde Informationen bereitstellen, darunter:**
 - Name der Einrichtung
 - Rechtsform
 - Branche (nach Anhang I oder II)
@@ -9,7 +9,7 @@ Die NIS-2-Richtlinie verpflichtet betroffene Unternehmen dazu, sich bei der zust
 - Mitgliedstaat, in dem die Dienste erbracht werden
 - Kontaktstelle für Cybersicherheit
 
-Die Registrierung muss aktuell gehalten und bei relevanten Änderungen aktualisiert werden. Sie dient der zentralen Erfassung und Überwachung durch die Aufsichtsbehörden.
+Die Registrierung muss aktuell gehalten und bei relevanten Änderungen aktualisiert werden. Sie dient der zentralen Erfassung und Überwachung durch die Aufsichtsbehörden (z.B. das BSI für deutsche Einrichtungen).
 
 ## Möglicher Prozess zur Registrierung für ein betroffenes Unternehmen beim BSI
 
