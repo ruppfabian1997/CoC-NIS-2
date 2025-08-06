@@ -1,4 +1,4 @@
-Die NIS-2-Richtlinie verpflichtet Unternehmen zu einer systematischen Dokumentation und Nachweisführung ihrer Maßnahmen zur Cybersicherheit. Grundlage hierfür sind insbesondere:
+Die NIS-2-Richtlinie verpflichtet Unternehmen zu einer systematischen Dokumentation und Nachweisführung ihrer Maßnahmen zur Cybersicherheit.
 
 ## Gesetzlicher Hintergrund – Artikel 20, 21, 23, 32, 34 - NIS-2
 
