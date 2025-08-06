@@ -2,7 +2,7 @@ Die NIS-2-Richtlinie verpflichtet Unternehmen zu einer systematischen Dokumentat
 
 ## Gesetzlicher Hintergrund – Artikel 20, 21, 23, 32, 34 - NIS-2
 
-- **Governance (Artikel 20)** Geschäftsleitungen müssen Maßnahmen nach Artikel 21 nicht nur billigen, sondern deren Umsetzung überwachen und sind im Falle von Verstößen Rechenschaftspflichtig. Das bedeutet, dass die Geschäftsleitung Nachweise für Maßnahmen gegenenfalls vorzeigen müssen.
+- **Governance (Artikel 20)** Geschäftsleitungen müssen Maßnahmen nach Artikel 21 nicht nur billigen, sondern deren Umsetzung überwachen und sind im Falle von Verstößen Rechenschaftspflichtig. Das bedeutet, dass die Geschäftsleitung gegebenfalls Nachweise für Maßnahmen vorzeigen müssen.
 
 - **Artikel 21 (Risikomanagementmaßnahmen)** Unternehmen müssen alle in Artikel 21 genannten Maßnahmen dokumentieren, da sie Grundlage für Audits und Aufsicht sind.
 
