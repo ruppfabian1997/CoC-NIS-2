@@ -12,6 +12,7 @@ Die NIS-2-Richtlinie verpflichtet Unternehmen zu einer systematischen Dokumentat
 
 ## Konkretisierung im deutschen Referentenentwurf zur Umsetzung der NIS-2-Richtlinie 
 **§39 Nachweispflichten für Betreiber kritischer Anlagen**
+
 Im Referentenentwurf gibt es einen Artikel speziell für die Nachweispflicht für EInrichtungen die unter KRITS fallen (z.B ein Energieunternehmen). Diese müssen alle drei Jahre nachweisen, dass sie die vorgeschriebenen Sicherheitsmaßnahmen umgesetzt haben. Dieser Nachweis kann durch Audits, Prüfungen oder Zertifizierungen erfolgen. Dabei müssen sie auch Sicherheitsmängel offenlegen.
 
 Das BSI darf hierbei Dokumentationen anfordern, auf denen die Prüfungen basieren oder 
