@@ -11,7 +11,7 @@ Statt dem klassischen Prozessmodell (wie z. B. in BPMN) wurde für diesen Absc
 
 ## Konkretisierung im deutschen Referentenentwurf zur Umsetzung der NIS-2-Richtlinie 
 **§30 nr.9 NIS2UmsuCG-E:**
-Der Referentenentwurf zur Umsetzung der NIS-2-Richtlinie enthält ebenfalls die Anfoderung des Einsatzes von kryptographischen Verfahren. Hier wird allerdings die Verschlüsselung nicht mehr genannt, was daran liegen kann, dass es hier als ein Teilgebiet der Kryptographie gesehen wird und keine spezifischen Anfoderungen benötigt.
+Der Referentenentwurf zur Umsetzung der NIS-2-Richtlinie enthält ebenfalls die Anforderung des Einsatzes von kryptographischen Verfahren. Hier wird allerdings die Verschlüsselung nicht mehr genannt, was daran liegen kann, dass es hier als ein Teilgebiet der Kryptographie gesehen wird und keine spezifischen Anfoderungen benötigt.
 
 ![Architekturmodell Kryptographie](media/Krypto_Arch.png)
 
