@@ -18,7 +18,7 @@ Gemäß Artikel 21 Abs. 2 der NIS-2-Richtlinie sowie §30 (2) Punkt 9 des aktuel
   → Fokus liegt auf klaren Zuständigkeiten und Schutz sensibler Systeme durch geschultes, überprüftes und vertrauenswürdiges Personal.
 
 ## Konkretisierung im deutschen Referentenentwurf zur Umsetzung der NIS-2-Richtlinie 
-**§30 (2) nr.4 NIS2UmsuCG-E:**
+**§30 (2) nr.9 NIS2UmsuCG-E:**
 Während in der Richtlinie allgemein von „Management von Anlagen“ spricht, der Umsetzungsentwurf, dass es sich um die „Verwaltung von IKT-Systemen, -Produkten und -Prozessen“ handelt. Damit wird der Anwendungsbereich enger und klar auf IT-bezogene Assets ausgerichtet, während die Formulierung in der ursprünglichen Richtlinie auch physische oder nicht-IT-bezogene Anlagen umfassen könnte.
 
 
