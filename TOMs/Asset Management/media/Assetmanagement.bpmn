@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions xmlns="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:omgdi="http://www.omg.org/spec/DD/20100524/DI" xmlns:omgdc="http://www.omg.org/spec/DD/20100524/DC" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="sid-38422fae-e03e-43a3-bef4-bd33b32041b2" targetNamespace="http://bpmn.io/bpmn" exporter="bpmn-js (https://demo.bpmn.io)" exporterVersion="18.6.1">
+  <collaboration id="Collaboration_04h6hpp">
+    <participant id="Participant_0p57h7p" name="Unternehmen" processRef="Process_1" />
+    <textAnnotation id="TextAnnotation_0n09cb6">
+      <text>Hardware / Software / Infrastruktur etc.</text>
+    </textAnnotation>
+    <association id="Association_0wo42v4" associationDirection="None" sourceRef="Activity_1dvf9t6" targetRef="TextAnnotation_0n09cb6" />
+  </collaboration>
+  <process id="Process_1" isExecutable="false">
+    <startEvent id="StartEvent_1y45yut" name="Start">
+      <outgoing>SequenceFlow_0h21x7r</outgoing>
+    </startEvent>
+    <task id="Task_1hcentk" name="Assets aufnehmen">
+      <incoming>SequenceFlow_0h21x7r</incoming>
+      <outgoing>Flow_0gbpzqf</outgoing>
+      <dataOutputAssociation id="DataOutputAssociation_0js3qtf">
+        <targetRef>DataStoreReference_1a0hehw</targetRef>
+      </dataOutputAssociation>
+    </task>
+    <dataStoreReference id="DataStoreReference_1a0hehw" name="Asset-DB" />
+    <task id="Activity_1dvf9t6" name="Assets Klassifizieren">
+      <incoming>Flow_0gbpzqf</incoming>
+      <outgoing>Flow_0k16tcx</outgoing>
+    </task>
+    <exclusiveGateway id="Gateway_0hskltx" name="Asset veraltet oder neu hinzugekommen?">
+      <incoming>Flow_0k16tcx</incoming>
+      <outgoing>Flow_1ofzvmb</outgoing>
+    </exclusiveGateway>
+    <task id="Activity_0a3jss0" name="Assetliste aktualisieren">
+      <incoming>Flow_1ofzvmb</incoming>
+      <outgoing>Flow_0gv10nt</outgoing>
+      <standardLoopCharacteristics />
+    </task>
+    <endEvent id="Event_01cbbau">
+      <incoming>Flow_0gv10nt</incoming>
+    </endEvent>
+    <sequenceFlow id="SequenceFlow_0h21x7r" sourceRef="StartEvent_1y45yut" targetRef="Task_1hcentk" />
+    <sequenceFlow id="Flow_0gbpzqf" sourceRef="Task_1hcentk" targetRef="Activity_1dvf9t6" />
+    <sequenceFlow id="Flow_0k16tcx" sourceRef="Activity_1dvf9t6" targetRef="Gateway_0hskltx" />
+    <sequenceFlow id="Flow_1ofzvmb" sourceRef="Gateway_0hskltx" targetRef="Activity_0a3jss0" />
+    <sequenceFlow id="Flow_0gv10nt" sourceRef="Activity_0a3jss0" targetRef="Event_01cbbau" />
+  </process>
+  <bpmndi:BPMNDiagram id="BpmnDiagram_1">
+    <bpmndi:BPMNPlane id="BpmnPlane_1" bpmnElement="Collaboration_04h6hpp">
+      <bpmndi:BPMNShape id="Participant_0p57h7p_di" bpmnElement="Participant_0p57h7p" isHorizontal="true">
+        <omgdc:Bounds x="160" y="80" width="920" height="290" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="StartEvent_1y45yut_di" bpmnElement="StartEvent_1y45yut">
+        <omgdc:Bounds x="232" y="182" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <omgdc:Bounds x="238" y="225" width="24" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Task_1hcentk_di" bpmnElement="Task_1hcentk">
+        <omgdc:Bounds x="330" y="160" width="100" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="DataStoreReference_1a0hehw_di" bpmnElement="DataStoreReference_1a0hehw">
+        <omgdc:Bounds x="355" y="275" width="50" height="50" />
+        <bpmndi:BPMNLabel>
+          <omgdc:Bounds x="357" y="332" width="47" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_1dvf9t6_di" bpmnElement="Activity_1dvf9t6">
+        <omgdc:Bounds x="500" y="160" width="100" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Gateway_0hskltx_di" bpmnElement="Gateway_0hskltx" isMarkerVisible="true">
+        <omgdc:Bounds x="675" y="175" width="50" height="50" />
+        <bpmndi:BPMNLabel>
+          <omgdc:Bounds x="657" y="232" width="87" height="40" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_0a3jss0_di" bpmnElement="Activity_0a3jss0">
+        <omgdc:Bounds x="810" y="160" width="100" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Event_01cbbau_di" bpmnElement="Event_01cbbau">
+        <omgdc:Bounds x="1002" y="182" width="36" height="36" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_0h21x7r_di" bpmnElement="SequenceFlow_0h21x7r">
+        <omgdi:waypoint x="268" y="200" />
+        <omgdi:waypoint x="330" y="200" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_0gbpzqf_di" bpmnElement="Flow_0gbpzqf">
+        <omgdi:waypoint x="430" y="200" />
+        <omgdi:waypoint x="500" y="200" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_0k16tcx_di" bpmnElement="Flow_0k16tcx">
+        <omgdi:waypoint x="600" y="200" />
+        <omgdi:waypoint x="675" y="200" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_1ofzvmb_di" bpmnElement="Flow_1ofzvmb">
+        <omgdi:waypoint x="725" y="200" />
+        <omgdi:waypoint x="810" y="200" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_0gv10nt_di" bpmnElement="Flow_0gv10nt">
+        <omgdi:waypoint x="910" y="200" />
+        <omgdi:waypoint x="1002" y="200" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Association_0wo42v4_di" bpmnElement="Association_0wo42v4">
+        <omgdi:waypoint x="550" y="160" />
+        <omgdi:waypoint x="550" y="140" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="DataOutputAssociation_0js3qtf_di" bpmnElement="DataOutputAssociation_0js3qtf">
+        <omgdi:waypoint x="380" y="240" />
+        <omgdi:waypoint x="380" y="275" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="TextAnnotation_0n09cb6_di" bpmnElement="TextAnnotation_0n09cb6">
+        <omgdc:Bounds x="500" y="100" width="160" height="40" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+    </bpmndi:BPMNPlane>
+  </bpmndi:BPMNDiagram>
+</definitions>
