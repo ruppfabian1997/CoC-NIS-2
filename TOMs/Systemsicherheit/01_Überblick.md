@@ -31,6 +31,8 @@ Dieser Baustein beinhaltet im Kern einige komplexe Prozesse, die nicht alle und 
 - Prozess zur Erkennung und Behebung von Schwachstellen
 - Ausschreibungs- und Evaluierungsprozess beim Kauf von Software
 
+Im Folgenden ist daher nur ein möglicher Prozess zur sicheren Entwicklung von Software dargestellt. 
+
 
 ![Prozessmodell zur Meldung von Sicherheitsvorfällen](media/Meldepflicht.drawio.png)
 
