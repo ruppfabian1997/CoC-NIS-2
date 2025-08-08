@@ -9,12 +9,6 @@ Gemäß NIS-2 sind Unternehmen verpflichtet, auch die Sicherheit ihrer Lieferket
 **§30 (2) nr.4 NIS2UmsuCG-E:**
 Zwischen der Formulierung in NIS-2 und dem deutschen Umsetzungsentwurf besteht kaum eine inhaltliche Konkretisierung. Beide Paragraphen adressieren die Sicherheit der Lieferkette und die sicherheitsrelevanten Aspekte in den Beziehungen zu unmittelbaren Anbietern oder Diensteanbietern. Der Text in 4. ist lediglich sprachlich verkürzt und verzichtet auf die explizite Nennung „zwischen den einzelnen Einrichtungen“.
 
-Bezogen auf diesen Paragraphen beinhaltet Assetmanagement also:
-
-- vollständige und aktuelle Inventarisierung aller IKT-Assets,
-- Kategorisierung nach Kritikalität, Sensibilität und Einsatzbereich,
-- Pflege und Aktualisierung bei Änderungen, Anschaffungen oder Außerbetriebnahmen.
-
 
 ## Möglicher Prozess zur Erhöhung der Sicherheit in der Lieferkette
 
