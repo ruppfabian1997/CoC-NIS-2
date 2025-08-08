@@ -34,7 +34,7 @@ Dieser Baustein beinhaltet im Kern einige komplexe Prozesse, die nicht alle und 
 Im Folgenden ist daher nur ein möglicher Prozess zur sicheren Entwicklung von Software dargestellt. 
 
 
-![Prozessmodell zur Meldung von Sicherheitsvorfällen](media/Meldepflicht.drawio.png)
+![Prozessmodell zur Meldung von Sicherheitsvorfällen](media/Softwareentwicklung.png)
 
 *Abb.: Beispielhafter Ablauf eines Meldeprozesses bei Sicherheitsvorfällen.*
 
