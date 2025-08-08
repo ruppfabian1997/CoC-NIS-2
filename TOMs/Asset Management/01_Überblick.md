@@ -9,7 +9,7 @@ Asset Management ist damit eine fest verankerte Pflicht und bildet die Grundlage
 
 ## Möglicher Prozess im Asset Management
 
-![Prozessmodell zum Asset Management](media/Assetmanagement.png)
+![Prozessmodell zum Asset Management](media/Assets.png)
 
 *Abb.: Beispielhafter Ablauf*
 
