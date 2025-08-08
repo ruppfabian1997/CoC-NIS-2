@@ -11,6 +11,10 @@ Die NIS-2-Richtlinie verpflichtet betroffene Unternehmen dazu, sich bei der zust
 
 Die Registrierung muss aktuell gehalten und bei relevanten Änderungen aktualisiert werden. Sie dient der zentralen Erfassung und Überwachung durch die Aufsichtsbehörden (z.B. das BSI für deutsche Einrichtungen).
 
+## Konkretisierung im deutschen Referentenentwurf zur Umsetzung der NIS-2-Richtlinie 
+**§ 33 NIS2UmsuCG-E:**
+Der Referentenwntwurf zur NIS-2-Richtlinie erweitert den Fokus der Registrierung: Er betrifft nicht nur Domain-Registry-Diensteanbieter, sondern auch alle besonders wichtigen Einrichtungen und wichtigen Einrichtungen im Sinne der NIS-2. Es geht dabei um die Meldung zur Registrierung beim BSI – also nicht (nur) um DNS-bezogene Daten, sondern um die generelle Zuordnung von Organisationen zur Regulierung.
+
 ## Möglicher Prozess zur Registrierung für ein betroffenes Unternehmen beim BSI
 
 **Annahmen**
