@@ -2,7 +2,7 @@
 
 Die folgende Zuordnung zeigt, wie die NIS-2-Anforderung zum Einsatz von Kryptographie und Sicherheitschlüsseln mit Maßnahmen der ISO/IEC 27001:2022 verknüpft ist.
 
-## 📁 Control 8.24 – Verwendung von Kryptographie
+## ✅ Control 8.24 – Verwendung von Kryptographie
 
 > *„Es müssen Regeln für den wirksamen Einsatz von Kryptographie, einschließlich der Verwaltung kryptographischer Schlüssel, festgelegt und umgesetzt werden.“*
 
