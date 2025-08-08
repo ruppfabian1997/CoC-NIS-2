@@ -23,7 +23,14 @@ Der deutsche Referentenentwurf konkretisiert die Vorgabe aus der NIS-2-Richtlini
 
 ## Möglicher Prozess zur Einhaltung der Systemsicherheit
 
-Der folgende Ablauf stellt ein Beispiel für einen möglichen internen Prozess zur Erfüllung der Systemsicherheit
+Dieser Baustein beinhaltet im Kern einige komplexe Prozesse, die nicht alle und nicht in voller Detailtiefe dargestellt werden können. Prozesse die in der Pflicht relevant sind: 
+- Sicherer Softwareentwicklungsprozess
+- Systembeschaffungsprozess
+- Changemanagemetprozess
+- Patchmanagementprozess
+- Prozess zur Erkennung und Behebung von Schwachstellen
+- Ausschreibungs- und Evaluierungsprozess beim Kauf von Software
+
 
 ![Prozessmodell zur Meldung von Sicherheitsvorfällen](media/Meldepflicht.drawio.png)
 
