@@ -9,6 +9,10 @@ Die NIS-2-Richtlinie verpflichtet Unternehmen Konzepte und Verfahren für den Ei
 
 Statt dem klassischen Prozessmodell (wie z. B. in BPMN) wurde für diesen Abschnitt bewusst ein Schichten-Modell gewählt. Der Grund: Der Einsatz kryptographischer Verfahren ist kein linearer Geschäftsprozess, sondern umfasst organisatorische Rahmenbedingungen, technische Komponenten sowie klare Rollenverteilungen. Der Fokus liegt daher auf einem Schichtenmodell, das die zentralen Elemente von Richtlinien, Schlüsselmanagement und technischer Umsetzung kurz zusammenführt.
 
+## Konkretisierung im deutschen Referentenentwurf zur Umsetzung der NIS-2-Richtlinie 
+**§30 nr.9 NIS2UmsuCG-E:**
+Der Referentenentwurf zur Umsetzung der NIS-2-Richtlinie enthält ebenfalls die Anfoderung des Einsatzes von kryptographischen Verfahren. Hier wird allerdings die Verschlüsselung nicht mehr genannt, was daran liegen kann, dass es hier als ein Teilgebiet der Kryptographie gesehen wird und keine spezifischen Anfoderungen benötigt.
+
 ![Architekturmodell Kryptographie](media/Krypto_Arch.png)
 
 *Abb.: Schichtenmodell für den Einsatz von kryptographie im Unternehmen*
