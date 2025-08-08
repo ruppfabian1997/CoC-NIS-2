@@ -31,7 +31,13 @@ Dieser Baustein beinhaltet im Kern einige komplexe Prozesse, die nicht alle und 
 - Prozess zur Erkennung und Behebung von Schwachstellen
 - Ausschreibungs- und Evaluierungsprozess beim Kauf von Software
 
-Im Folgenden ist daher nur ein möglicher Prozess zur sicheren Entwicklung von Software dargestellt. 
+Im Folgenden ist ein möglicher Prozess zur sicheren Entwicklung von Software dargestellt. Schon in einer frühen Phase werden die Anforderungen der Sicherheitsbeauftragten eingebracht. Das sind unter anderem Vorgaben zu Vertraulichkeit, Integrität, Verfügbarkeit, Zugriffskontrolle, sicheren Schnittstellen und Datenschutz Vorgaben. Der Gesamtverantwortliche für das Produkt übernimmt diese Sicherheitsanforderungen und integriert sie in die Gesamtanforderungen an die Software, sodass Sicherheit von Beginn an Teil der gesamten Anwendung ist. Das Entwicklungsteam setzt die Vorgaben anschließend mit etablierten Secure Coding Principles um, wie etwa 
+
+- Eingabevalidierung
+- Prinzip der minimalen Rechte
+- sichere Authentifizierung und Autorisierung
+
+Nach der Implementierung erfolgen strukturierte Tests und Validierungen, um Sicherheitslücken, Fehlfunktionen und Abweichungen von den Anforderungen zu identifizieren. Treten Mängel auf, beginnt eine Schleife aus Überarbeitung, erneutem Testen und Validieren, bis alle Anforderungen erfüllt sind. Erst dann wird die Software produktiv ausgerollt.
 
 
 ![Prozessmodell zur Meldung von Sicherheitsvorfällen](media/Softwareentwicklung.png)
