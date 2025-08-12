@@ -10,15 +10,17 @@ Die NIS-2-Richtlinie verpflichtet Unternehmen, geeignete und verhältnismäßige
 - **Verhältnismäßigkeit & Stand der Technik**  
   Die Maßnahmen sollen dem Stand der Technik entsprechen und unter wirtschaftlich vertretbarem Aufwand ein dem Risiko angemessenes Schutzniveau erreichen.
 
-§30 Abs. 2 Nr. 1 UmsuCG
+## Konkretisierung im deutschen Referentenentwurf zur Umsetzung der NIS-2-Richtlinie 
+**§30 Abs. 2 Nr. 1 NIS2UmsuCG-E:**
+In der NIS-2-Richtlinie (Artikel 21), wie auch im Referentenentwurf (§30) ist von Risikomanagementmaßnahmen die Rede. Dies bedeutet, dass auch im Umsetzungsgesetz ein gesamtheitlicher risikobasierter Ansatz gewählt wird. Die Risikoanalyse, wie auch Konzepte für die Informationssicherheit sind ebenfalls benannt. Daher findet hier keine inhaltliche Konkretisierung statt.
 
 ## Möglicher Prozess zur Meldung von Sicherheitsvorfällen
 
-Der folgende Ablauf stellt ein Beispiel für einen möglichen Prozess der Risikoanalyse dar.
+Der folgende Ablauf stellt ein Beispiel für einen möglichen Prozess der Risikoanalyse dar. Hierbei gibt es eine risikoverantwortliche Person. Diese plant, steuert und überwacht das Risikomanagement. Im Assetmanagement werden alle Unternehmenswerte und Prozesse gesammelt und anschließénd deren Schutzbedarf bestimmt. Auf dieser Basis werden Risiken für alle schutzbedürftigen Assets definiert und priorisiert. Dann werden Maßnahmen abgeleitet, die von einzelnen Risikoeigentümern in den Fachbereichen umgesetzt werden.
 
 ![Prozessmodell zur Risikoanalyse](media/Risikomanagement.png)
 
-*Abb.: Beispielhafter Ablauf einer risikobasierten Sicherheitsanalyse.*
+*Abb.: Beispielhafter Ablauf im Risikomanagement*
 
 > Hinweis: Dieses Prozessmodell dient als Orientierung und sollte an die individuellen Strukturen und Verantwortlichkeiten des Unternehmens angepasst werden.
 
