@@ -1,7 +1,7 @@
 # Mapping zur ISO/IEC 27001:2022 – Meldepflicht NIS-2
 
 
-##✅ Control 5.5 – Kontakt mit Behörden
+## ✅ Control 5.5 – Kontakt mit Behörden
 
 > *„Die  Organisation  muss  mit  den  zuständigen  Behörden  Kontakt 
 aufnehmen  und  halten.“*
@@ -11,7 +11,7 @@ Dieser Control unterstützt die Meldepflicht, da Unternehmen bereits verpflichte
 
 ---
 
-##✅ Control 5.24 – Planung und Vorbereitung der Handhabung von Informationssicherheitsvorfällen
+## ✅ Control 5.24 – Planung und Vorbereitung der Handhabung von Informationssicherheitsvorfällen
 
 > *Die  Organisation  muss  die  Handhabung  von 
 Informationssicherheitsvorfällen  planen  und  vorbereiten,  indem  sie 
@@ -23,7 +23,7 @@ Die Maßnahme aus der ISO bildet die Grundlage für strukturierte Reaktionsproze
 
 ---
 
-##✅� Control 5.25 – Beurteilung und Entscheidung über Informationssicherheitsereignisse
+## ✅ Control 5.25 – Beurteilung und Entscheidung über Informationssicherheitsereignisse
 
 > *„Die  Organisation  muss  Informationssicherheitsereignisse  beurteilen  und 
 entscheiden,  ob  sie  als  Informationssicherheitsvorfälle  eingestuft  werden 
@@ -34,7 +34,7 @@ Diese Anforderung ist zentral für die Entscheidung, ob ein Vorfall meldepflicht
 
 ---
 
-##✅ Control 5.26 – Reaktion auf Informationssicherheitsvorfälle
+## ✅ Control 5.26 – Reaktion auf Informationssicherheitsvorfälle
 
 > *„Auf  Informationssicherheitsvorfälle  muss  entsprechend  den 
 dokumentierten  Verfahren  reagiert  werden.“*
@@ -44,7 +44,7 @@ Es muss nach dokumentierten Verfahren auf das Sicherheitsereignis reagiert werde
 
 ---
 
-##✅ Control 5.27 – Erkenntnisse aus Informationssicherheitsvorfällen
+## ✅ Control 5.27 – Erkenntnisse aus Informationssicherheitsvorfällen
 
 > *„Aus  Informationssicherheitsvorfällen  gewonnene  Erkenntnisse  müssen 
 zur  Verstärkung  und  Verbesserung  der 
@@ -55,7 +55,7 @@ Dieser Control kann sich auf den Abschlussbericht in NIS-2 beziehen. Ergänzend 
 
 ---
 
-##✅ Control 6.8 – Meldung von Informationssicherheitsereignissen
+## ✅ Control 6.8 – Meldung von Informationssicherheitsereignissen
 
 > *„Die  Organisation  muss  einen  Mechanismus  bereitstellen,  der  es  den 
 Mitarbeitern  ermöglicht,  beobachtete  oder  vermutete 
