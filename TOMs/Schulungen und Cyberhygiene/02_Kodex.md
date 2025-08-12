@@ -16,7 +16,6 @@ Ziel dieses Kodex ist es, passende Verfahren zur Schulung von Mitarbeitenden und
   - Keine externen Links und Anhänge öffnen
   - den Arbeitsplatz sicher halten (z.B. Bildschirm sperren)
   - Private und dienstliche Angelegenheiten klar trennen
-- -- IN ANFORDERUNGSWORKSHOP WEITER HERAUSARBEITEN --
 
 ## Empfohlene Maßnahmen
 
@@ -26,7 +25,6 @@ Ziel dieses Kodex ist es, passende Verfahren zur Schulung von Mitarbeitenden und
 - Nutzung von Vorfällen als Lernanlass für gezielte Awareness-Maßnahmen
 - Einführung einer Basisschulung für alle Mitarbeitenden beim Eintritt
 - Einbindung von IT-Sicherheit in allgemeine Schulungen (z. B. Datenschutz, IT-Nutzung)
-- -- IN ANFORDERUNGSWORKSHOP WEITER HERAUSARBEITEN --
 
 **Pro-Tipp: Gamification in Cyber-Schulungen**  
 Der Ansatz, spielerisch Wissen in Schulungen zu vermittel ist immer mehr im Trend und kann die Wirksamkeit von Schulungen deutlich erhöhen. Beispiele: Quiz-Wettbewerbe, Sicherheits-Challenges,    Phishing-Simulationen mit Punktesystem.
