@@ -15,7 +15,7 @@ Die Risikoanalyse stellt einen wichtiges Element des Risikomanagements dar schaf
 
 Der folgende Ablauf stellt ein Beispiel für einen möglichen Prozess der Risikoanalyse dar.
 
-![Prozessmodell zur Risikoanalyse](media/Risikoanalyse.drawio.png)
+![Prozessmodell zur Risikoanalyse](media/Risikomanagement.png)
 
 *Abb.: Beispielhafter Ablauf einer risikobasierten Sicherheitsanalyse.*
 
