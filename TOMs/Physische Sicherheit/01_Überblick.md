@@ -18,7 +18,7 @@ Die NIS-2-Richtlinie selbst erwähnt keine expliziten Anforderungen zur physisch
 
 Der folgende exemplarische Ablauf zeigt, wie Unternehmen den **Zutritt zu besonders schützenswerten Bereichen** steuern und überwachen können – etwa Serverräumen, Rechenzentren oder kritischen Verwaltungszonen.
 
-![Prozessmodell zur Zutrittskontrolle](media/Zutrittskontrolle.png)
+![Prozessmodell zur Zutrittskontrolle](media/Zutritt.png)
 
 *Abb.: Beispielhafter Prozess zur physischen Zugangssicherung*
 
