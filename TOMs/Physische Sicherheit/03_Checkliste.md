@@ -23,7 +23,7 @@ Diese Checkliste unterstützt Unternehmen dabei, ihre physische Sicherheitsarchi
 - [ ] Sind Gefahren durch Umweltfaktoren (z. B. Überschwemmung, Hitze, Kälte) bewertet und Maßnahmen umgesetzt?
 - [ ] Werden sicherheitsrelevante Einrichtungen regelmäßig gewartet und überprüft?
 
-## Notfallmanagement und Reaktion
+## Physische Notfälle
 
 - [ ] Existiert ein Notfallkonzept für physische Sicherheitsvorfälle?
 - [ ] Gibt es Evakuierungspläne und sind diese Mitarbeitenden bekannt?
