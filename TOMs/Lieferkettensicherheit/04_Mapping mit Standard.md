@@ -1,4 +1,4 @@
-# 🔗 Mapping – Lieferkettensicherheit gemäß Art. 21(2)(d) NIS-2 zur ISO/IEC 27001:2022
+# Mapping – Lieferkettensicherheit gemäß Art. 21(2)(d) NIS-2 zur ISO/IEC 27001:2022
 
 Die NIS-2-Richtlinie verlangt, dass Unternehmen die Sicherheit ihrer Lieferkette berücksichtigen. Insbesondere in der Zusammenarbeit mit Anbietern und Dienstleistern ist das von zentraler Bedeutung. Die folgenden ISO/IEC 27001:2022-Maßnahmen unterstützen diese Anforderung:
 
