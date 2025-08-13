@@ -20,6 +20,14 @@
 - [ ] Wird die Risikoanalyse regelmäßig überprüft?
 - [ ] Werden Änderungen (z. B. neue Systeme, neue Prozesse, sich ändernde Bedrohungen) zeitnah berücksichtigt?
 
+## Wirksamkeitsprüfung
+
+- [ ] Existiert bereits ein Konzept zur Überprüfung der Wirksamkeit von Risikomanagementmaßnahmen?
+- [ ] Wurden aussagekräftige KPIs bestimmt?
+- [ ] Wird die Wirksamkeit von Maßnahmen regelmäßig geprüft und verbessert?
+- [ ] Ist die Wirksamkeitsprüfung in der Management Review integriert?
+
+
 ## Nachweisdokumentation
 
 - [ ] Ist die aktuelle Risikoanalyse dokumentiert und versioniert?
