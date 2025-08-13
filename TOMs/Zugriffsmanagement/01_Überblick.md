@@ -1,4 +1,4 @@
-Die NIS-2-Richtlinie verpflichtet Unternehmen, geeignete Konzepte für die Zugriffskontrolle sowie Maßnahmen zur sicheren Kommunikation innerhalb der Einrichtung umzusetzen. Diese Anforderungen finden sich in **Artikel 21, Abs. 2 (i)** der Richtlinie sowie im **§ 30 Abs. 2 Nr. 9 und 10** des deutschen Umsetzungsentwurfs (UmsuCG). Zusätzlich wird der **Einsatz von Multifaktor-Authentifizierung** und **gesicherten Kommunikationssystemen** ausdrücklich gefordert.
+Die NIS-2-Richtlinie verpflichtet Unternehmen, geeignete Konzepte für die Zugriffskontrolle sowie Maßnahmen zur sicheren Kommunikation innerhalb der Einrichtung umzusetzen. Zusätzlich ist in diesem Baustein auch der **Einsatz von Multifaktor-Authentifizierung** und **gesicherten Kommunikationssystemen** zu finden.
 
 ## Gesetzlicher Hintergrund – Artikel 21, Abs. 2 (i) NIS-2 & § 30 UmsuCG
 
