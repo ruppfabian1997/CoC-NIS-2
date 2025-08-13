@@ -53,7 +53,7 @@ Ziel dieses Abschnitts ist es, sicherzustellen, dass Risiken für die Informatio
 
 ---
 
-## 📊 Beispielhafte KPIs zur Bewertung der Wirksamkeit von Risikomanagementmaßnahmen
+## 📊 Beispielhaftes KPI zur Bewertung der Wirksamkeit von Risikomanagementmaßnahmen
 
 ### KPI: Anteil umgesetzter Risikobehandlungsmaßnahmen
 
