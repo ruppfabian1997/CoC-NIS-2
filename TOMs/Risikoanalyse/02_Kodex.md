@@ -55,7 +55,7 @@ Ziel dieses Abschnitts ist es, sicherzustellen, dass Risiken für die Informatio
 
 ## 📊 Beispielhafte KPIs zur Bewertung der Wirksamkeit von Risikomanagementmaßnahmen
 
-### KPI 1: Anteil umgesetzter Risikobehandlungsmaßnahmen
+### KPI: Anteil umgesetzter Risikobehandlungsmaßnahmen
 
 - **Definition**: Anteil der Risiken, die bereits durch Maßnahmen behandelt wurden.
 - **Formel**:  
