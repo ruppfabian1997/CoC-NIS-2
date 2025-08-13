@@ -13,7 +13,6 @@ Ziel dieses Kodex ist es, passende Konzepte zur Zugriffskontrolle zu etablieren.
 - Privilegierte Zugänge sind besonders restriktiv zu behandeln und regelmäßig zu kontrollieren.
 - Zugriffsrechte müssen regelmäßig überprüft und bei Rollenwechsel oder Ausscheiden entzogen werden.
 - Technische und organisatorische Schutzmaßnahmen sind zu dokumentieren.
-- -- IN ANFORDERUNGSWORKSHOP WEITER HERAUSARBEITEN --
 
 ## Empfohlene Maßnahmen
 
@@ -28,7 +27,6 @@ Ziel dieses Kodex ist es, passende Konzepte zur Zugriffskontrolle zu etablieren.
 - Technische Umsetzung von Zugriffsbeschränkungen gemäß der Richtlinie für Zugriffskontrolle.
 - Verwaltung von Benutzerkonten, Login-Verfahren und Zugangsauthentifizierung.
 - Genaue Steuerung von Lese-/Schreibrechten bei Code, Tools und Bibliotheken.
-- -- IN ANFORDERUNGSWORKSHOP WEITER HERAUSARBEITEN --
 
 
 ## Mögliche beteiligte Rollen
