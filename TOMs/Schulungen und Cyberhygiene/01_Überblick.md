@@ -14,6 +14,10 @@ Sie helfen, Cyberhygiene-Regeln zu verstehen und anzuwenden.
 Sie fördern Awareness und senken das Risiko menschlicher Fehler.
 Eine gute Sicherheitskultur besteht aus klaren Verhaltensregeln (Cyberhygiene) und gezielter Kompetenzvermittlung (Schulung), daher könnten in NIS-2 beide Punkte gemeinsam genannt werden.
 
+## Konkretisierung im deutschen Referentenentwurf zur Umsetzung der NIS-2-Richtlinie 
+**§30 Abs. 2 Nr.7 NIS2UmsuCG-E:**
+Im Referentenwntwurf ist von grundlegenden Schulungen und Sensibilisierungsmaßnahmen im Bereich der Informationssicherheit die Rede. Der Begriff der Cyberhygiene findet hier keine Anwendung mehr. Allerdings implizieren die genannten Maßnahmen grundelegendes Wissen im Bereich der Cyberhygiene aufzubauen. 
+
 ## Möglicher Prozess zur Etablierung von Schulungen und Cyberhygiene
 
 Der folgende Ablauf stellt ein Beispiel für einen möglichen internen schulungszyklus und einen Cyberhygieneprozess aus Sicht der Mitarbeitenden dar.
