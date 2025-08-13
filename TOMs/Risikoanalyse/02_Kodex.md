@@ -51,6 +51,20 @@ Ziel dieses Abschnitts ist es, sicherzustellen, dass Risiken für die Informatio
 
 ---
 
+---
+
+## 📊 Beispielhafte KPIs zur Bewertung der Wirksamkeit von Risikomanagementmaßnahmen
+
+### KPI 1: Anteil umgesetzter Risikobehandlungsmaßnahmen
+
+- **Definition**: Anteil der Risiken, die bereits durch Maßnahmen behandelt wurden.
+- **Formel**:  
+  `KPI = (Anzahl umgesetzter Maßnahmen / Gesamtzahl identifizierter Risiken) × 100`
+- **Zielwert**: ≥ 90 %
+- **Interpretation**: Ein hoher Wert zeigt, dass Risiken nicht nur erkannt, sondern auch aktiv behandelt werden.
+
+---
+
 ## Mögliche beteiligte Rollen
 
 - CISO 
