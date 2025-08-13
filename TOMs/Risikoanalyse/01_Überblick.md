@@ -1,8 +1,8 @@
-Die NIS-2-Richtlinie verpflichtet Unternehmen, geeignete und verhältnismäßige Maßnahmen zur Beherrschung von Risiken für die Sicherheit ihrer Netz- und Informationssysteme umzusetzen.
+Die NIS-2-Richtlinie verpflichtet Unternehmen, geeignete und verhältnismäßige Maßnahmen zur Beherrschung von Risiken für die Sicherheit ihrer Netz- und Informationssysteme umzusetzen. Ebenfalls Teil dieses Bausteins ist die Überprüfung der Wirksamkeit der Risikomanagementmaßnahmen.
 
 ---
 
-## Gesetzlicher Hintergrund – Artikel 21 Abs. 2 (a) NIS-2 
+## Gesetzlicher Hintergrund – Artikel 21 Abs. 2 (a) & (f) NIS-2 
 
 - **Risikobasierter Ansatz**  
   Die Richtlinie fordert, dass betroffene Einrichtungen Konzepte zur Risikoanalyse und Informationssicherheit entwickeln. Ziel ist es, Risiken systematisch zu identifizieren, zu bewerten und geeignete Maßnahmen zur Risikobehandlung abzuleiten. Der risikobasierte Ansatz spiegelt sich auch im Namen des Artikels 21 wider: Risikomanageemntmaßnahmen im Bereich Cybersicherheit.
@@ -10,9 +10,12 @@ Die NIS-2-Richtlinie verpflichtet Unternehmen, geeignete und verhältnismäßige
 - **Verhältnismäßigkeit & Stand der Technik**  
   Die Maßnahmen sollen dem Stand der Technik entsprechen und unter wirtschaftlich vertretbarem Aufwand ein dem Risiko angemessenes Schutzniveau erreichen.
 
+- **Überprüfung der Wirksamkeit**
+  Die NIS-2-Richtlinie fordert Konzepte und Verfahren zur Bewertung der Wirksamkeit von Risikomanagementmaßnahmen im Bereich der   Cybersicherheit. Das bedeutet konkret, dass Organisationen in irgendeiner Weise feststellen müssen, ob die umgesetzten Maßnahmen auch funktionieren und ihren Zweck erfüllen.
+
 ## Konkretisierung im deutschen Referentenentwurf zur Umsetzung der NIS-2-Richtlinie 
-**§30 Abs. 2 Nr. 1 NIS2UmsuCG-E:**
-In der NIS-2-Richtlinie (Artikel 21), wie auch im Referentenentwurf (§30) ist von Risikomanagementmaßnahmen die Rede. Dies bedeutet, dass auch im Umsetzungsgesetz ein gesamtheitlicher risikobasierter Ansatz gewählt wird. Die Risikoanalyse, wie auch Konzepte für die Informationssicherheit sind ebenfalls benannt. Daher findet hier keine inhaltliche Konkretisierung statt.
+**§30 Abs. 2 Nr. 1 & Nr.6 NIS2UmsuCG-E:**
+In der NIS-2-Richtlinie (Artikel 21), wie auch im Referentenentwurf (§30) ist von Risikomanagementmaßnahmen die Rede. Dies bedeutet, dass auch im Umsetzungsgesetz ein gesamtheitlicher risikobasierter Ansatz gewählt wird. Die Risikoanalyse, wie auch Konzepte für die Informationssicherheit sind ebenfalls benannt. Daher findet hier keine inhaltliche Konkretisierung statt. Auch die Überprüfung der Wirksamkeit von Risikomanagementmaßnahmen ist fast wortgleich übernommen und bietet keine neuen Anforderungen.
 
 ## Möglicher Prozess im Risikomanagement
 
