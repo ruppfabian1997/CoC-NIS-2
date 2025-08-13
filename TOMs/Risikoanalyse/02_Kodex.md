@@ -15,6 +15,8 @@ Ziel dieses Abschnitts ist es, sicherzustellen, dass Risiken für die Informatio
 - **Änderungen** an Prozessen, IT-Systemen oder der Bedrohungslage erfordern eine neue Risikoanalyse.
 - Die Ergebnisse der Risikoanalyse müssen **dokumentiert** und vom Risikoverantwortlichen freigegeben werden.
 - Die Risikoanalyse muss **objektiv, nachvollziehbar und konsistent** durchgeführt werden.
+- Es sind geeignete Methoden zur Überwachung, Messung und Analyse der Wirksamkeit zu definieren (z. B. KPIs, Audit-Checklisten).
+- Die Bewertung muss zu festgelegten Zeitpunkten erfolgen (z. B. jährlich)
 
 ---
 
@@ -27,6 +29,7 @@ Ziel dieses Abschnitts ist es, sicherzustellen, dass Risiken für die Informatio
 - Zuordnung von **Risikoeigentümer:innen**.
 - Regelmäßige Reviews und **Aktualisierung** bei Änderungen.
 - Risikobehandlung mit Auswahl aus **Akzeptieren / Reduzieren / Transferieren / Vermeiden**.
+- EInführing der Wirksamkeitsbewertung von Maßnahmen als KPIs und Einbindung in das Management Review
 
 ### Technologisch
 
@@ -34,6 +37,7 @@ Ziel dieses Abschnitts ist es, sicherzustellen, dass Risiken für die Informatio
 - Verknüpfung mit Asset- und Prozessinventaren.
 - Risikoanalyse als Basis für Maßnahmen bei Backups, Zugriffskontrollen etc.
 - Regelmäßige technische Prüfungen (z. B. Schwachstellenscans, PenTests) als Input für die Bewertung.
+- Wirksamkeitsbewertung: Einsatz von Monitoring-Tools zur automatisierten Erfassung von Security-Kennzahlen.
 
 ---
 
@@ -41,9 +45,9 @@ Ziel dieses Abschnitts ist es, sicherzustellen, dass Risiken für die Informatio
 
 | Risiko-ID| Bedrohung                | Asset            | Auswirkung       | Eintritt | Risiko | Maßnahme             | Status     |
 |----------|--------------------------|------------------|------------------|----------|--------|----------------------|------------|
-| R-001    | Ransomware               | Dateiserver      | Datenverlust     | Hoch     | Hoch   | Tägliches Backup     | Umgesetzt  |
-| R-002    | Missbrauch Adminrechte   | Active Directory | Zugriff verletzt | Mittel   | Hoch   | MFA + Logging        | In Planung |
-| R-003    | Verlust Dienstlaptop     | Mobiles Gerät    | Vertraulichkeit  | Niedrig  | Mittel | Verschlüsselung HDD  | Umgesetzt  |
+| R-001    | Ransomware               | Dateiserver      | Datenverlust     | Hoch     | Hoch   | Reduzieren     | Umgesetzt  |
+| R-002    | Missbrauch Adminrechte   | Active Directory | Zugriff verletzt | Mittel   | Hoch   | Reduzieren       | In Planung |
+| R-003    | Verlust Dienstlaptop     | Mobiles Gerät    | Vertraulichkeit  | Niedrig  | Mittel | Vermeiden  | Umgesetzt  |
 
 ---
 
