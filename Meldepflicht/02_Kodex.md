@@ -9,6 +9,7 @@
   - Die Geschäftsführung ist über meldepflichtige Vorfälle zu informieren.
   - Rückmeldungen seitens Behörden sind zeitnah zu prüfen und bei Unterstützungsangeboten zu reagieren.
   - Eine Veröffentlichung des Vorfalls muss mit der Kommunikationsabteilung abgestimmt erfolgen, sofern verlangt.
+  - Bei einem erheblichen Vorfall sind betroffene Dienstempfänger unverzüglich zu informieren
 
 
 
@@ -20,6 +21,7 @@
   - Einbindung der Kommunikationsabteilung für öffentliche Bekanntmachungen
   - Dokumentation aller Schritte zur Nachvollziehbarkeit und Auditfähigkeit
   - Regelmäßige Übungen und Trainings zur Vorfallbewertung und Meldepflicht
+  - Einrichtung eines Kommunikationsprozess, um betroffene Dienstempfänger bei erheblichen Sicherheitsvorfällen schnell informieren zu können
 
 ## Mögliche beteiligte Rollen
   - IT-Sicherheitsbeauftragte:r (Information Security Officer / ISO)
@@ -32,3 +34,4 @@
   - Template Abschlussbericht
   - Kommunikationsplan bei behördlicher Veröffentlichungspflicht  
   - Vergangene Protokolle zu Meldungen (wenn vorhanden)
+  - Unterrichtungsprotokolle
