@@ -17,7 +17,7 @@ Der Referentenentwurf konkretisiert mit § 38 die Verantwortung der Geschäftsle
 
 Der folgende Ablauf stellt ein Beispiel für einen möglichen Prozess zur Umsetzung, Überwachung und der Teilnahme an Schulungen für die Geschäftsleitung dar.
 
-![Prozessmodell zur Managementpflicht](media/Meldepflicht.drawio.png)
+![Prozessmodell zur Managementpflicht](media/Managementpflicht.png)
 
 *Abb.: Beispielhafter Ablauf zur Umsetzung der Managementpflicht*
 
