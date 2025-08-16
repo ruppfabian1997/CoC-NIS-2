@@ -1,6 +1,6 @@
 # Checkliste für Geschäftsleitungen
 
-## Umsetzung & Überwachung der Risikomanagementmaßnahmen
+## Umsetzung & Überwachung der TOMs
 - [ ] Wurden die nach § 30 NIS2UmsuCG erforderlichen Risikomanagementmaßnahmen identifiziert?  
 - [ ] Ist ein Umsetzungsplan dokumentiert und verabschiedet?  
 - [ ] Gibt es ein internes Kontrollsystem (Monitoring, KPIs, Audits) zur Überwachung der Maßnahmen?  
