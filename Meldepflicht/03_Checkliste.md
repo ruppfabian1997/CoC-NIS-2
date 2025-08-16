@@ -8,6 +8,7 @@ Du willst wissen, ob dein Unternehmen gut auf die Meldung von Sicherheitsvorfäl
 - [ ] Gibt es eine interne Richtlinie zur Meldepflicht und ist diese kommuniziert?
 - [ ] Sind betroffene Rollen und Verantwortlichkeiten bei der Meldung von Sicherheitsereignissen definiert?
 - [ ] Ist der Kontakt zur zuständigen Behörde oder dem nationalen CSIRT bekannt und dokumentiert?
+- [ ] Existiert ein Kommunikationsprozess zur Unterrichtung von Sicherheitsvorfällen an betroffene Dienstempfänger?
 
 ## Frühwarnung (innerhalb von 24 Stunden)
 
