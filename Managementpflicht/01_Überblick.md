@@ -13,13 +13,13 @@ Der Referentenentwurf konkretisiert mit § 38 die Verantwortung der Geschäftsle
 
 
 
-## Möglicher Prozess zur Meldung von Sicherheitsvorfällen
+## Möglicher Prozess zur Umsetzung, Überwachung & Schulungspflicht für die Geschäftsleitung
 
-Der folgende Ablauf stellt ein Beispiel für einen möglichen internen Prozess zur Erfüllung der Meldepflicht gemäß Artikel 23 NIS-2 dar. Er zeigt die typischen Schritte von der Erstmeldung bis zum Abschlussbericht:
+Der folgende Ablauf stellt ein Beispiel für einen möglichen Prozess zur Umsetzung, Überwachung und der Teilnahme an Schulungen für die Geschäftsleitung dar.
 
-![Prozessmodell zur Meldung von Sicherheitsvorfällen](media/Meldepflicht.drawio.png)
+![Prozessmodell zur Managementpflicht](media/Meldepflicht.drawio.png)
 
-*Abb.: Beispielhafter Ablauf eines Meldeprozesses bei Sicherheitsvorfällen.*
+*Abb.: Beispielhafter Ablauf zur Umsetzung der Managementpflicht*
 
 > Hinweis: Dieses Prozessmodell dient als Orientierung und sollte an die individuellen Strukturen und Verantwortlichkeiten des Unternehmens angepasst werden.
 
