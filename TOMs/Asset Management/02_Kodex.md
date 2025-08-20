@@ -48,8 +48,6 @@ Sicherstellung des vollständigen, sicheren und nachweisbaren Umgangs mit Assets
 
 ---
 
----
-
  ## Technologieunterstützung
 
 Eine **CMDB (Configuration Management Database)** ist die Basis, um Assets vollständig und aktuell zu verwalten. Diese ist wesentlich besser als Assets in Excel-Tabellen zu speichern.
