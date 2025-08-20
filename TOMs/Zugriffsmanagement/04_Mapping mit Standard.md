@@ -5,7 +5,6 @@
 > Der Punkt der Multi-Faktor-Authentifizierung aus Art. 21(2)(j) wird ebenfalls in diesem CoC-Baustein betrachtet.
 > In der ISO27001 existiert ein Control "Zugriffskontroll" (A.5.15). Das ist die zentrale Maßnahme zur NIS-Anforderung. Allerdings ist die Zugrifsskontrolle ein komplexeres Kontrukt aus mehreren weiteren Controls.
 
----
 ## Organisatorische Maßnahmen im Bereich Zugriffskontrolle
 
 ## ✅ Control 5.15 – **Zugangssteuerung**
