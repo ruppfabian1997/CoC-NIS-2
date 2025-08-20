@@ -18,7 +18,7 @@
   - Einrichtung eines internen Frühwarnsystems zur schnellen Einschätzung von Vorfällen
   - Vorlagen für Frühwarnung, Erstmeldung und Abschlussbericht erstellen und regelmäßig aktualisieren
   - Einrichtung eines Meldekanals für alle Mitarbeitenden (z. B. Vorfallformular im Intranet)
-  - Einbindung der Kommunikationsabteilung für öffentliche Bekanntmachungen
+  - Erstellung eines Templates für öffentliche Bekanntmachungen
   - Dokumentation aller Schritte zur Nachvollziehbarkeit und Auditfähigkeit
   - Regelmäßige Übungen und Trainings zur Vorfallbewertung und Meldepflicht
   - Einrichtung eines Kommunikationsprozess, um betroffene Dienstempfänger bei erheblichen Sicherheitsvorfällen schnell informieren zu können
@@ -35,17 +35,5 @@
   - Kommunikationsplan bei behördlicher Veröffentlichungspflicht  
   - Vergangene Protokolle zu Meldungen (wenn vorhanden)
   - Unterrichtungsprotokolle
-
----
-
- ## Technologieunterstützung
-
-Eine **CMDB (Configuration Management Database)** ist die Basis, um Assets vollständig und aktuell zu verwalten. Diese ist wesentlich besser als Assets in Excel-Tabellen zu speichern.
-Automatisierte **Discovery-Tools** können eingesetzt werden, Systeme und Endpunkte regelmäßig automatisch zu erfassen.
-
-**Beispiel-Tools:**  
-- CMDB-System (z. B. i-doit, ServiceNow)  
-- Discovery: Open-AudIT, Qualys Asset Discovery
-
 
  
