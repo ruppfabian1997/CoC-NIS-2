@@ -35,3 +35,17 @@
   - Kommunikationsplan bei behördlicher Veröffentlichungspflicht  
   - Vergangene Protokolle zu Meldungen (wenn vorhanden)
   - Unterrichtungsprotokolle
+
+---
+
+ ## Technologieunterstützung
+
+Eine **CMDB (Configuration Management Database)** ist die Basis, um Assets vollständig und aktuell zu verwalten. Diese ist wesentlich besser als Assets in Excel-Tabellen zu speichern.
+Automatisierte **Discovery-Tools helfen** können eingesetzt werden, Systeme und Endpunkte regelmäßig automatisch zu erfassen.
+
+**Beispiel-Tools:**  
+- CMDB-System (z. B. i-doit, ServiceNow)  
+- Discovery: Open-AudIT, Qualys Asset Discovery
+
+
+ 
