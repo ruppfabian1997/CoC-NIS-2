@@ -11,7 +11,6 @@ Ziel dieses Kodex ist es, klare Regeln und Prozesse für den sicheren Umgang mit
 - Vorfälle, Schwachstellen und Abweichungen in der Lieferkette sind zu melden und gemeinsam zu beheben.
 - Cloud-Dienste dürfen nur genutzt werden, wenn Verantwortlichkeiten und Sicherheitsmaßnahmen klar geregelt sind.
 - Bei Vertragsbeendigung muss die sichere Rückgabe oder Löschung von Daten gewährleistet sein.
-- -- IN ANFORDERUNGSWORKSHOP WEITER HERAUSARBEITEN --
 
 ## Empfohlene Maßnahmen
 
@@ -21,11 +20,10 @@ Ziel dieses Kodex ist es, klare Regeln und Prozesse für den sicheren Umgang mit
 - Einrichtung eines Lieferantenverzeichnisses mit Sicherheitsklassifizierung  
 - Regelmäßige Überwachung und Bewertung der Lieferanten-Performance (z. B. SLA-Reviews, Audit-Logiken)  
 - Erstellung Dokumentation der Sicherheitsmaßnahmen für die Nutzung, Überwachung und Beendigung von Cloud-Diensten  
-- -- IN ANFORDERUNGSWORKSHOP WEITER HERAUSARBEITEN --
 
 ## Mögliche beteiligte Rollen
 
-- CISO  
+- CISO/ISB
 - Einkauf / Vertragsmanagement  
 - Fachbereiche mit Lieferantenverantwortung  
 - Rechtsabteilung (für Vertragsprüfung)  
