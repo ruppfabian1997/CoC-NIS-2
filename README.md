@@ -1,4 +1,4 @@
-# CoC-NIS-2
+# Entwickelter CoC für NIS-2
 Prozessorientierter Code of Conduct zur Umsetzung von NIS-2
 
 ## Projektbeschreibung
