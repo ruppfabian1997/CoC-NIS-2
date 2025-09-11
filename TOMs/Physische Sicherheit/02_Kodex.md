@@ -35,7 +35,7 @@ Ziel dieses Kodex ist es, organisatorische und technische Maßnahmen zur Gewähr
 
 - Facility Management / Gebäudeverwaltung  
 - IT-Abteilung / Infrastrukturteam  
-- CISO / Sicherheits
+- CISO / ISB
 
 ## Empfohlene Nachweisdokumente
 
