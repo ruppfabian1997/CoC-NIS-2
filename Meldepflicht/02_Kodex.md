@@ -24,7 +24,7 @@
   - Einrichtung eines Kommunikationsprozess, um betroffene Dienstempfänger bei erheblichen Sicherheitsvorfällen schnell informieren zu können
 
 ## Mögliche beteiligte Rollen
-  - IT-Sicherheitsbeauftragte:r (Information Security Officer / ISO)
+  - CISO/ISB
   - IT-Servicedesk
   - Datenschutzbeauftragte:r
   - Compliance-Abteilung
