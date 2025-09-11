@@ -67,7 +67,7 @@ Ziel dieses Abschnitts ist es, sicherzustellen, dass Risiken für die Informatio
 
 ## Mögliche beteiligte Rollen
 
-- CISO 
+- CISO / ISB
 - Geschäftsfürhung (Einbezieheung in die Bewertung und Akzeptanz) 
 - Risikoeigner (Verantwortliche in Fachbereichen)
 
