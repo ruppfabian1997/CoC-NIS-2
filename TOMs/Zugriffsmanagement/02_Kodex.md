@@ -32,7 +32,7 @@ Ziel dieses Kodex ist es, passende Konzepte zur Zugriffskontrolle zu etablieren.
 ## Mögliche beteiligte Rollen
 
 - IT-Administration  
-- Informationssicherheitsbeauftragte:r (CISO)  
+- CISO / ISB 
 - Personalabteilung (bei Rollenwechseln, On-/Offboarding)  
 - Systemverantwortliche  
 - ggf. externe IT-Dienstleister
