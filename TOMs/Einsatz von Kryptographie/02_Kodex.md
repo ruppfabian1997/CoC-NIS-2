@@ -23,8 +23,8 @@ Ziel dieses Kodex ist es, Regeln für den sicheren und verantwortungsvollen Umga
 
 ## Mögliche beteiligte Rollen
 
-- IT-Sicherheitsbeauftragte:r  
-- Administrator:innen  
+- CISO/ISB
+- IT-Administraton  
 - Mitarbeitende mit Zugang zu verschlüsselten Informationen  
 - Externe Anbieter (z. B. Trust Center)
 
