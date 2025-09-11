@@ -44,9 +44,9 @@ Ziel dieses Abschnitts ist es, sicherzustellen, dass alle Informationssicherheit
 
 - Incident-Response-Team  
 - IT-Administration  
-- Informationssicherheitsbeauftragte:r (CISO)  
+- CISO / ISB 
 - Geschäftsführung (z. B. bei Eskalationen oder Meldepflichten)  
-- Datenschutzbeauftragte:r   
+- Datenschutzbeauftragte   
 - Mitarbeitende (als Meldepflichtige)  
 - ggf. externe Forensik- oder IT-Dienstleister
 
