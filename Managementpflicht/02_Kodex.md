@@ -18,7 +18,7 @@
 
 ## Mögliche beteiligte Rollen
   - Geschäftsleitung
-  - CISO/ISO
+  - CISO/ISB
   - Compliance-Abteilung
   - ggf. externe Schulungsbeauftragte für die Managementschulung
 
