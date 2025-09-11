@@ -35,7 +35,7 @@ Ziel dieses Kodex ist es, organisatorische Maßnahmen zur Sicherheit des Persona
 
 - HR / Personalabteilung  
 - Vorgesetzte / Fachabteilungen  
-- CISO
+- CISO/ISB
 - Datenschutzbeauftragte:r  
 
 ---
