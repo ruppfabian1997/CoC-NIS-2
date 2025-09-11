@@ -32,7 +32,7 @@ Der Ansatz, spielerisch Wissen in Schulungen zu vermittel ist immer mehr im Tren
 
 ## Mögliche beteiligte Rollen
 
-- IT-Sicherheitsbeauftragte:r / CISO  
+- CISO/ISB
 - Personalabteilung (Onboarding & Schulungen)  
 - Fachabteilungen mit Schulungsbedarf  
 - Interne oder externe Schulungsanbieter   
