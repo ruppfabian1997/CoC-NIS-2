@@ -44,11 +44,10 @@ Ziel dieses Kodex ist es, die **Verfügbarkeit, Integrität und Vertraulichkeit*
 ## Mögliche beteiligte Rollen
 
 - BCM-Verantwortliche Person
-- CISO
+- CISO/ISB
 - Incident-Response-Team
 - Krisenstab
 - System- und Netzwerkadministration  
-- Geschäftsbereichsleitung
 - Externe Dienstleister (z. B. Backup-Provider, Cloud-Anbieter)
 
 ---
