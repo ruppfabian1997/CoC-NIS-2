@@ -22,7 +22,7 @@ Bezogen auf diesen Paragraphen beinhaltet Assetmanagement also:
 ## Möglicher Prozess im Asset Management
 Nachfolgend ist ein einfacher Prozess dargestellt, bei demn Assets inerhalb einer Strukturanalyse in ein Inventar aufgenommen und anschließend klassifiziert werden. Dieser Prozess ist die Grundlage für BCM-Prozesse, der Schutzbedarfsfeststellung und der Risikoanalyse. Ers ist daher ein essentieller Teilprozess.
 
-![Prozessmodell zum Asset Management](media/Assets.png)
+![Prozessmodell zum Asset Management](media/Assetmanagement.png)
 
 *Abb.: Beispielhafter Ablauf zu Aufnehmen und Klassifizieren von Assets*
 
