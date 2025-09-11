@@ -33,7 +33,7 @@ Ziel dieses Kodex ist es, Sicherheitsanforderungen und organisatorische Maßnahm
 
 - IT-Architekt:innen  
 - Entwickler:innen / DevOps-Teams  
-- IT-Sicherheitsverantwortliche / CISO  
+- CISO / ISB
 - Projektleitende  
 - Externe Dienstleister für Entwicklung oder Wartung
 
