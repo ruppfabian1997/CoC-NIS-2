@@ -8,20 +8,19 @@ Ziel des Kodex ist es, verbindliche interne Regeln und Abläufe zur Erfüllung d
 - Die Einstufung als wesentliche oder wichtige Einrichtung muss im vorhinein geprüft und dokumentiert werden.
 - Registrierungsdaten müssen vollständig, korrekt und fristgerecht an die zuständige Behörde übermittelt werden.
 - Änderungen an den Registrierungsdaten sind unverzüglich zu melden.
-- -- IN ANFORDERUNGSWORKSHOP WEITER HERAUSARBEITEN --
 
 ## Empfohlene Maßnahmen
 
 - Aufbau eines Prozesses zur Identifikation und Verwaltung der Registrierungspflicht
 - Benennung einer verantwortlichen Person für die Registrierung und deren Aktualisierung
 - Erstellung und Pflege einer Vorlage für die Registrierungsdaten
-- -- IN ANFORDERUNGSWORKSHOP WEITER HERAUSARBEITEN --
 
 ## Mögliche beteiligte Rollen
 
-- CISO  
+- CISO/ISB
 - Rechts- oder Compliance-Abteilung 
-- Geschäftsführung / zentrale Ansprechstelle für Behörden  
+- Geschäftsleitung
+- Definierte verantwortliche Personen als zentrale Ansprechstelle für Behörden  
 
 ## Empfohlene Nachweisdokumente
 
