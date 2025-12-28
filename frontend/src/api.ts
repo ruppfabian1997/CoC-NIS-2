@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:8000/api'; // Passe ggf. an dein Backend an
+const API_URL = 'http://localhost:3001/api'; // Backend läuft auf Port 3001
 
 export function getToken() {
   return localStorage.getItem('token');

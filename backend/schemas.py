@@ -16,6 +16,11 @@ class UserRead(BaseModel):
 class Token(BaseModel):
     access_token: str
     token_type: str
+    token: str  # for frontend compatibility
+
+class LoginRequest(BaseModel):
+    email: EmailStr
+    password: str
 
 class TokenData(BaseModel):
     email: Optional[str] = None
