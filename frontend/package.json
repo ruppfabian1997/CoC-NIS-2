@@ -1,7 +1,8 @@
 {
-  "name": "CoC-NIS-2-frontend",
+  "name": "coc-nis-2-frontend",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "dependencies": {
     "axios": "^1.6.2",
     "react": "^18.2.0",
@@ -13,7 +14,7 @@
     "@types/react-dom": "^18.2.16",
     "@vitejs/plugin-react": "^5.1.2",
     "typescript": "^5.3.3",
-    "vite": "^4.5.0"
+    "vite": "^5.4.21"
   },
   "scripts": {
     "dev": "vite",
