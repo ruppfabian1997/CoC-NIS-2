@@ -1,10 +1,24 @@
-import React from 'react'
+import React from 'react';
+import { Routes, Route, Navigate } from 'react-router-dom';
+import Login from './pages/Login';
+import Register from './pages/Register';
+import Dashboard from './pages/Dashboard';
+import { getToken } from './api';
 
-export default function App() {
-  return (
-    <div style={{padding: 24, fontFamily: 'Arial, sans-serif'}}>
-      <h1>CoC NIS-2 — Frontend</h1>
-      <p>Minimal Vite + React skeleton. Backend API should be available on http://localhost:3001</p>
-    </div>
-  )
+function PrivateRoute({ children }: { children: JSX.Element }) {
+  const token = getToken();
+  return token ? children : <Navigate to="/login" />;
 }
+
+function App() {
+  return (
+    <Routes>
+      <Route path="/login" element={<Login />} />
+      <Route path="/register" element={<Register />} />
+      <Route path="/dashboard" element={<PrivateRoute><Dashboard /></PrivateRoute>} />
+      <Route path="*" element={<Navigate to="/login" />} />
+    </Routes>
+  );
+}
+
+export default App;
