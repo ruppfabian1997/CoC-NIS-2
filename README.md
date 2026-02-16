@@ -1,96 +1,29 @@
-# CoC-NIS-2
+## Prozessorientierter Code of Conduct zur Umsetzung von NIS-2
 
-Monorepo for the NIS-2 support tool (MVP) based on the master's thesis of Fabian Rupp.
+## Projektbeschreibung
+Dieses Repository enthält einen modular aufgebauten Code of Conduct (CoC) zur Umsetzung der Anforderungen der NIS-2-Richtlinie. Ziel ist es, Unternehmen eine praxisnahe und klare Hilfestellung bei der Implementierung der in der Richtlinie geregelten Pflichten zu bieten.
 
-This repository contains two top-level projects:
-- frontend — Vite + React + TypeScript (SPA)
-- backend  — FastAPI (Python)
+## Warum gibt es dieses Projekt?
+Die NIS-2-Richtlinie bringt umfangreiche Anforderungen an Cybersicherheitsmaßnahmen mit sich. Viele Unternehmen sind allerdings in der konkreten Umsetzung auf sich alleine gestellt. Dieser Open-Source-CoC stellt eine transparente, versionierbare und kollaborative Lösung bereit.
 
-## Quickstart (local)
+## Aufbau des Repositories
+Das Repository ist modular aufgebaut: Jeder Ordner repräsentiert eine konkrete Umsetzungspflicht aus der NIS-2-Richtlinie. Alle Ordner folgen einer einheitlichen Struktur:
 
-Prerequisites
-- Node.js (v18+ recommended) and npm
-- Python 3.10+ and virtualenv
+- **01_Überblick.md**  
+  Enthält eine kurze Einführung zur jeweiligen Pflicht, inklusive relevanter Prozesse, einem Auszug aus dem Richtlinientext und einer kompakten Beschreibung der Anforderung.
 
-1) Clone the repository
+- **02_Kodex.md**  
+  Formuliert empfohlene Verhaltensregeln, konkrete Maßnahmen zur Umsetzung, mögliche Nachweisdokumente sowie – wenn sinnvoll – zuständige Rollen oder Verantwortlichkeiten.
 
-```bash
-git clone https://github.com/ruppfabian1997/CoC-NIS-2.git
-cd CoC-NIS-2
-```
+- **03_Checkliste.md**  
+  Enthält eine praktische Checkliste zur Selbstüberprüfung der Umsetzung im Unternehmen.
 
-2) Start the backend
+- **04_Mapping.md**  
+  Stellt eine Zuordnung zu etablierten Standards her, insbesondere zur ISO/IEC 27001:2022. Falls vorhanden, werden auch bestehende Lücken oder Abweichungen kenntlich gemacht.
 
-```bash
-cd backend
-python -m venv .venv
-# macOS / Linux
-source .venv/bin/activate
-# Windows (PowerShell)
-# .venv\Scripts\Activate
-pip install -r requirements.txt
-# Optional: set a secure SECRET_KEY for JWTs
-# Example (bash): export SECRET_KEY=$(python -c "import secrets; print(secrets.token_urlsafe(32))")
-uvicorn main:app --reload --port 3001
-```
+## Für wen ist dieses Projekt gedacht?
+Dieses Projekt richtet sich vor allem an:
 
-- Health endpoint: http://localhost:3001/health
-- Example API: http://localhost:3001/api/hello
-
-3) Start the frontend
-
-```bash
-cd frontend
-npm install
-npm run dev
-# Frontend dev server: http://localhost:5173
-```
-
-4) Test registration and login (example with curl)
-
-Register a new user (JSON body):
-
-```bash
-curl -X POST http://localhost:3001/auth/register \
-  -H "Content-Type: application/json" \
-  -d '{"email":"user@example.com","password":"secretpassword"}'
-```
-
-Login (x-www-form-urlencoded):
-
-```bash
-curl -X POST http://localhost:3001/auth/login \
-  -H "Content-Type: application/x-www-form-urlencoded" \
-  -d "username=user@example.com&password=secretpassword"
-```
-
-The login response returns a bearer token:
-
-```json
-{"access_token":"<JWT_TOKEN>","token_type":"bearer"}
-```
-
-Use the token to call a protected endpoint:
-
-```bash
-curl -H "Authorization: Bearer <JWT_TOKEN>" http://localhost:3001/users/me
-```
-
-## Environment / Security notes
-- Set `SECRET_KEY` (strong random string) in the environment for production. The code currently falls back to a placeholder value which is insecure for production.
-- `ACCESS_TOKEN_EXPIRE_MINUTES` can be configured via environment variable (default = 1440 min = 24h).
-- The backend currently uses SQLite for quick prototyping (`backend/database.db`). For production use PostgreSQL and add migrations.
-
-## Development notes
-- Backend: FastAPI + SQLModel. Tables are created automatically on startup.
-- Frontend: Vite + React + TypeScript. Default dev port is 5173.
-
-## Next steps (recommended)
-- Add migrations (Postgres + Alembic / SQLModel migration tooling).
-- Implement refresh tokens and secure cookie storage for JWTs.
-- Add frontend pages for registration/login and token handling.
-- Add tests and CI pipeline.
-
----
-
-If you want, I can also update or add a separate `docs/` file with extended developer instructions or create a minimal GitHub Actions workflow to run lint/tests.
+- IT-Sicherheitsverantwortliche, die für die technische Umsetzung der NIS-2-Anforderungen zuständig sind,
+- Geschäftsführerinnen und Geschäftsführer, die in der Verantwortung stehen, Cybersicherheitsmaßnahmen zu billigen und zu überwachen,
+- sowie Cyber Security Berater, die mit dem CoC eine Grundlage haben, Unternehmen bei der Umsetzung zu unterstützen.
